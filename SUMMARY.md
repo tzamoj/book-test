@@ -4,7 +4,7 @@
 
 ## DESIGN PRINCIPLES
 
-* [Overview](design-principles/overview.md)
+* [Moloch V2 Overview](design-principles/moloch-v2-overview.md)
 * [Security Assumptions](design-principles/security-assumptions.md)
 * [Architecture](design-principles/architecture.md)
 
