@@ -11,3 +11,6 @@ The first version includes 3 roles :
 3. Guild Member : responsible for the management of the Bank assets
 
 The V1 will allow to define any set of roles.
+
+## Proposal custom settings
+
