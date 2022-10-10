@@ -36,15 +36,15 @@ Any Member of the DAO can propose to transfer a quantity of Tokens held by the D
 
 Any Member of the DAO can propose to swap an amount of X Tokens held by the DAO Bank with Y whitelisted Tokens.
 
-### GuildKick
+### Guildkick
 
-Any member of the DAO can propose to evict another Member from the DAO through a GuildKick Proposal. If the GuildKick Proposal is approved, the _Shares_ of this Member are converted into _Loots,_ aka _Shares_ without any voting right_._ Once all the Proposals approved by this Member are all processed, the Member can redim his Loots through a Ragequit (this operation can also be triggered by any Member of the DAO through a RageKick).
+Any member of the DAO can propose to evict another Member from the DAO through a Guildkick Proposal. If this Guildkick Proposal is approved, the _Shares_ of this Member are converted into _Loots,_ aka _Shares_ without any voting right_._ Once all the Proposals approved by this Member are all processed, the Member can redim his Loots through a Ragequit (this operation can also be triggered by any Member of the DAO through a RageKick).
 
 
 
 ## Moloch V2 Ragequit mecanism
 
-blalbla
+Any Member can leave the DAO using the Ragequit functionnality
 
 
 
