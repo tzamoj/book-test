@@ -8,4 +8,4 @@ The first version includes 3 roles :
 
 1. Administrator: responsible for onboarding new members and whitelisting assets
 2. Governor: responsible for the governance of the assets.
-3. User:&#x20;
+3. User: responsible for the management of the Bank assets
