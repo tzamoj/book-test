@@ -1,10 +1,10 @@
 # API Reference
 
-## Modules
+Dive into the specifics of each API endpoint by checking out our complete documentation.
 
+### Proposals
 
-
-## Proposals
+Proposals all follow the following minimum interface, where functions are allowed to have more arguments than default ones if necessary:
 
 #### Structs
 
@@ -12,29 +12,19 @@
 
 <summary>ProposalParams</summary>
 
-Description...
-
-* majority (felt):
-* quorum (felt):
-* votingDuration (felt):
-* graceDuration (felt):
+*
 
 </details>
 
-<details>
+{% hint style="info" %}
+Example hint (remove)
+{% endhint %}
 
-<summary>ProposalInfo</summary>
+```
+// Example code
+```
 
-Description
-
-* id (felt):
-* type (felt):&#x20;
-* submittedBy (felt):&#x20;
-* submittedAt (felt):
-* status (felt):
-* description (felt):
-
-</details>
+> Example quote
 
 #### Storage variables
 
@@ -51,10 +41,6 @@ _Returns_
 * ProposalParams
 
 </details>
-
-#### Functions
-
-All proposals follow the following minimum interface, where functions are allowed to have more arguments than default ones if necessary:
 
 <details>
 
@@ -89,33 +75,22 @@ _Description_
 
 </details>
 
-### GuildKick
+#### GuildKick
 
-Description
 
-<details>
 
-<summary>submit</summary>
-
-_Arguments_
-
-* memberAddress (felt): member to guildkick
-* description (felt):&#x20;
-
-_Returns_
-
-* success (felt):&#x20;
-
-</details>
+{% content-ref url="pets.md" %}
+[pets.md](pets.md)
+{% endcontent-ref %}
 
 ## Users
 
 Everything related to users:
 
-{% content-ref url="proposals/onboard.md" %}
-[onboard.md](proposals/onboard.md)
+{% content-ref url="users.md" %}
+[users.md](users.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Good to know:** Using the 'Page Link' block lets you link directly to a page. If this page's name, URL or parent location changes, the reference will be kept up to date. You can also mention a page – like [guildkick.md](proposals/proposals/guildkick.md "mention") – if you don't want a block-level link.
+**Good to know:** Using the 'Page Link' block lets you link directly to a page. If this page's name, URL or parent location changes, the reference will be kept up to date. You can also mention a page – like [pets.md](pets.md "mention") – if you don't want a block-level link.
 {% endhint %}
