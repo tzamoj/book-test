@@ -1,6 +1,6 @@
 # Introduction
 
-**Moloch X** is a Cairo-based DAO Framework, implementing **Moloch V2** features and adding new functionalities to provide more flexibility for Roles & Proposals management.
+**Moloch X** is a DAO Framework, implementing **Moloch V2** features, adding new functionalities to provide more flexibility for Roles & Proposals management and running on Starknet.
 
 As it has been developed to allow the roll-out of Quadratic Employees Profit Sharing Fund, it meets the following requirements:
 
