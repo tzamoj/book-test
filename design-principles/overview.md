@@ -49,7 +49,9 @@ Any Member can leave the DAO with the Ragequit functionnality:
 * He is allowed to withdraw his part of the Tokens held by the DAO Bank based on his shareholding
 * His _Shares_ are burned
 
-The Ragequit functionality is not only a way to exit the DAO and redim his Assets but also a security feature to protects DAO Members from 51% attacks.
+The Ragequit functionality is not only a way to exit the DAO and redim his Assets but also a security feature to protects DAO Members from 51% attacks : during the grace period, Members who voted NO or did not vote can Ragequit ; Members who voted YES cannot RAgitquit until the grace period is over and the Proposal is processed.
+
+
 
 
 
