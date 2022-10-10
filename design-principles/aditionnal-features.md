@@ -17,8 +17,14 @@ The V1 will allow to define any set of roles.
 Each proposal type can be customized with a set of parameters&#x20;
 
 * Voting period & grace period
-* Proposal submission :&#x20;
+* &#x20;
+* Proposal submission:
+  1. which role(s) can submit a proposal
+  2.
 *
-  * [ ] which role(s) can submit a proposal
-  *
-* Proposal&#x20;
+* Proposal sponsoring:
+  * which role(s) can submit a proposal (if null, no sponsoring needed)
+
+
+
+*
