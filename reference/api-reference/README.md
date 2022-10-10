@@ -1,10 +1,10 @@
 # API Reference
 
-Dive into the specifics of each API endpoint by checking out our complete documentation.
+## Modules
 
-### Proposals
 
-Proposals all follow the following minimum interface, where functions are allowed to have more arguments than default ones if necessary:
+
+## Proposals
 
 #### Structs
 
@@ -12,19 +12,29 @@ Proposals all follow the following minimum interface, where functions are allowe
 
 <summary>ProposalParams</summary>
 
-*
+Description...
+
+* majority (felt):
+* quorum (felt):
+* votingDuration (felt):
+* graceDuration (felt):
 
 </details>
 
-{% hint style="info" %}
-Example hint (remove)
-{% endhint %}
+<details>
 
-```
-// Example code
-```
+<summary>ProposalInfo</summary>
 
-> Example quote
+Description
+
+* id (felt):
+* type (felt):&#x20;
+* submittedBy (felt):&#x20;
+* submittedAt (felt):
+* status (felt):
+* description (felt):
+
+</details>
 
 #### Storage variables
 
@@ -41,6 +51,10 @@ _Returns_
 * ProposalParams
 
 </details>
+
+#### Functions
+
+All proposals follow the following minimum interface, where functions are allowed to have more arguments than default ones if necessary:
 
 <details>
 
@@ -75,22 +89,33 @@ _Description_
 
 </details>
 
-#### GuildKick
+### GuildKick
 
+Description
 
+<details>
 
-{% content-ref url="pets.md" %}
-[pets.md](pets.md)
-{% endcontent-ref %}
+<summary>submit</summary>
+
+_Arguments_
+
+* memberAddress (felt): member to guildkick
+* description (felt):&#x20;
+
+_Returns_
+
+* success (felt):&#x20;
+
+</details>
 
 ## Users
 
 Everything related to users:
 
-{% content-ref url="users.md" %}
-[users.md](users.md)
+{% content-ref url="proposals/onboard.md" %}
+[onboard.md](proposals/onboard.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Good to know:** Using the 'Page Link' block lets you link directly to a page. If this page's name, URL or parent location changes, the reference will be kept up to date. You can also mention a page – like [pets.md](pets.md "mention") – if you don't want a block-level link.
+**Good to know:** Using the 'Page Link' block lets you link directly to a page. If this page's name, URL or parent location changes, the reference will be kept up to date. You can also mention a page – like [guildkick.md](proposals/proposals/guildkick.md "mention") – if you don't want a block-level link.
 {% endhint %}
