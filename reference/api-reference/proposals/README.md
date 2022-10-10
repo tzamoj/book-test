@@ -1,12 +1,8 @@
-# API Reference
+# Proposals
 
-## Modules
+## Module
 
-
-
-## Proposals
-
-#### Structs
+### Structs
 
 <details>
 
@@ -36,7 +32,7 @@ Description
 
 </details>
 
-#### Storage variables
+### Storage variables
 
 <details>
 
@@ -52,7 +48,7 @@ _Returns_
 
 </details>
 
-#### Functions
+### Functions
 
 All proposals follow the following minimum interface, where functions are allowed to have more arguments than default ones if necessary:
 
@@ -89,33 +85,12 @@ _Description_
 
 </details>
 
-### GuildKick
+## Submodules
 
-Description
-
-<details>
-
-<summary>submit</summary>
-
-_Arguments_
-
-* memberAddress (felt): member to guildkick
-* description (felt):&#x20;
-
-_Returns_
-
-* success (felt):&#x20;
-
-</details>
-
-## Users
-
-Everything related to users:
-
-{% content-ref url="proposals/onboard.md" %}
-[onboard.md](proposals/onboard.md)
+{% content-ref url="proposals/guildkick.md" %}
+[guildkick.md](proposals/guildkick.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** Using the 'Page Link' block lets you link directly to a page. If this page's name, URL or parent location changes, the reference will be kept up to date. You can also mention a page – like [guildkick.md](proposals/proposals/guildkick.md "mention") – if you don't want a block-level link.
-{% endhint %}
+{% content-ref url="onboard.md" %}
+[onboard.md](onboard.md)
+{% endcontent-ref %}

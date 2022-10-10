@@ -11,6 +11,8 @@
 ## Reference
 
 * [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
+  * [Bank](reference/api-reference/bank.md)
+  * [Proposals](reference/api-reference/proposals/README.md)
+    * [GuildKick](reference/api-reference/proposals/proposals/guildkick.md)
+    * [Onboard](reference/api-reference/proposals/onboard.md)
 * [Quick Start](reference/quick-start.md)
