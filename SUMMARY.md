@@ -12,8 +12,10 @@
 ## Reference
 
 * [API Reference](reference/api-reference/README.md)
-  * [Bank](reference/api-reference/bank.md)
+  * [Roles](reference/api-reference/roles.md)
+  * [Members](reference/api-reference/members.md)
   * [Proposals](reference/api-reference/proposals/README.md)
     * [GuildKick](reference/api-reference/proposals/proposals/guildkick.md)
     * [Onboard](reference/api-reference/proposals/onboard.md)
+  * [Bank](reference/api-reference/bank.md)
 * [Quick Start](reference/quick-start.md)

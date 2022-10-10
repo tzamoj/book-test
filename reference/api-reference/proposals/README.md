@@ -1,6 +1,6 @@
 # Proposals
 
-## Module
+TODO: short module description
 
 ### Structs
 
@@ -32,7 +32,7 @@ Description
 
 </details>
 
-### Storage variables
+### Storage Variables
 
 <details>
 
