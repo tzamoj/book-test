@@ -4,7 +4,7 @@
 
 It has been designed in order to facilitate a roll-out in a Corporate environnement, with the ability to:
 
-* Onboard end-users are not crypto-natives, leveraging on Wallets implementing social recovery features
+* Onboard end-users who are not crypto-natives, leveraging on Wallets implementing social recovery features
 * Fine-tune the proposals management and the voting rules in order to be able to (i) manage externally defined criterias (e.g. membership) (ii) set-up the right set of parameters to align voting rights & accountability (e.g. whitelisting)
 
 Alpha Version fits our internal Use Case requirements and will be rolled-out at Starknet regenesis. The Nightly Version will implement the possibility to fully fine-tune roles & proposals.
