@@ -2,7 +2,7 @@
 
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
-MolochX DAO uses a role-based membership system. Members are assigned roles, hence a different set of rights  per type of proposal.
+Moloch on Starknet uses a role-based membership system. Members are assigned roles, hence a different set of rights  per type of proposal.
 
 The first version includes 3 roles :
 
