@@ -2,6 +2,8 @@
 
 Moloch V2 operates through the submission and the voting of proposals.&#x20;
 
+Applications for membership are managed through a proposal, where the applicant proposes an amount of Tokens (the _Tribute_) in exchange of some _Shares_ of the DAO.
+
 
 
 ## Moloch V2 Proposal Workflow
