@@ -5,3 +5,5 @@ The Cairo version will allow to fully customize Roles ans Proposal parameters. I
 * Some actions on Proposals can be restricted to some Roles (e.g. submission restricted to Admins)
 * The voting phase can be skipped
 * Some Roles can veto a Proposal
+
+This flexibility leads to a much wider range of&#x20;
