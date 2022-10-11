@@ -4,7 +4,7 @@ Moloch V2 operates through the submission and the voting of proposals.&#x20;
 
 Applications for membership are managed through a proposal, where the applicant proposes an amount of Tokens (_the Tribute_) in exchange of some _Shares_ of the DAO.
 
-The DAO treasury (_the Bank_), which includes initially all the _Tributes_ paid by the members of the DAO, can also be managed through proposals, transfer proposals (for Grants) or trade proposals (for investments).
+The DAO treasury (_the Bank_), which includes initially all the _Tributes_ paid by the members of the DAO, can also be managed through proposals, transfer proposals (for Grants) or trade proposals (swap of assets held by the Bank with other assets, for investment purpose).
 
 
 
