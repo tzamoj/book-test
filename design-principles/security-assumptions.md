@@ -6,7 +6,7 @@ The Cairo version will allow to fully customize Roles and Proposal parameters. I
 * The voting phase can be skipped
 * Some Roles can veto a Proposal
 
-If this flexibility leads to a much wider range of misbehaviors towards DAO Members than in Moloch V2 (mainly 51% attacks), the protection of the DAO Members relies in the abiity to Ragequt and exit the DAO. That being said:
+If this flexibility leads to a much wider range of misbehaviors towards DAO Members than in Moloch V2 (mainly 51% attacks), the protection of the DAO Members relies in the abiity to Ragequt and exit the DAO. That being said this possbility:
 
 *
 
