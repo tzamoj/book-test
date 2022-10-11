@@ -2,10 +2,10 @@
 
 **Moloch on Starknet** is a DAO Framework, implementing most of **Moloch V2** features, adding new functionalities to provide more flexibility for roles & proposals management and running on **Starknet**.
 
-It has been designed in order to facilitate its roll-out in a Corporate environnement, As it has been first developed to allow the roll-out of Quadratic Employees profit sharing fund, it meets the following requirements:
+It has been designed in order to facilitate its roll-out in a Corporate environnement, with the ability to:
 
-* Deployment on Starknet to (i) lower the amount of gas fees needed to interact with the Dapp (ii) rely on Wallets implementing social recovery features as some of the targeted end-users are not crypto-natives
-* Ability to fine-tune the proposals management and the voting rules in order to be able to (i) manage externally defined criterias (e.g. membership) (ii) set-up the right set of parameters to align voting rights & accountability (e.g. whitelisting)
+* Onboard end-users are not crypto-natives, leveraging on Wallets implementing social recovery features
+* Fine-tune the proposals management and the voting rules in order to be able to (i) manage externally defined criterias (e.g. membership) (ii) set-up the right set of parameters to align voting rights & accountability (e.g. whitelisting)
 
 Alpha Version fits our internal Use Case requirements and will be rolled-out at Starknet regenesis. The Nightly Version will implement the possibility to fully fine-tune roles & proposals.
 
