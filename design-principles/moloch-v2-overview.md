@@ -2,7 +2,7 @@
 
 ## Moloch V2 Proposal Workflow
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * DAO members can submit a Proposal <mark style="color:red;">TODO paiement</mark>. A non DAO member can also submit a Proposal to apply for membership. To be submitted, this Proposal has to be sponsored by an existing member of the DAO.
 * DAO Members can vote for or against the submitted Proposal during the Voting Period
