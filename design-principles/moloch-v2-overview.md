@@ -7,7 +7,7 @@
 
 
 * DAO members can submit a Proposal <mark style="color:red;">TODO paiement</mark>. A non DAO member can also submit a Proposal to apply for membership. To be submitted, this Proposal has to be sponsored by an existing member of the DAO.
-* DAO Members can vote for or against the Proposal during the Voting Period
+* DAO Members can vote for or against the submitted Proposal during the Voting Period
 * Once the Voting Period over, if the Proposal is approved by a majority of Voters, the Proposal enters a Grace Period
 * During the Grace Period, Members who voted against the Proposal can exit the DAO (aka Ragequit)
 * Once the Grace Period over, any DAO Member can process the Proposal (aka execute it) ; users are incentivized to process the Proposals as they get a fee in the _Payment Token_ of the DAO
