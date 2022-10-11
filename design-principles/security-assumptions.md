@@ -6,4 +6,4 @@ The Cairo version will allow to fully customize Roles ans Proposal parameters. I
 * The voting phase can be skipped
 * Some Roles can veto a Proposal
 
-This flexibility leads to a much wider range of&#x20;
+This flexibility leads to a much wider range of misbehaviors towards DAO Members than in Molovh V2 (
