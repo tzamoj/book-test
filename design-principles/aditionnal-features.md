@@ -12,6 +12,8 @@ The first version includes 3 roles :
 
 The V1 will allow to define any set of roles.
 
+##
+
 ## Proposal custom settings
 
 Each proposal type can be customized with a set of parameters:
