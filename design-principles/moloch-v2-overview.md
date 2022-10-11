@@ -1,8 +1,8 @@
-# Overview
+# Moloch V2 Overview
 
 ## Moloch V2 Proposal Workflow
 
-<figure><img src="../.gitbook/assets/proposals workflow.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Once a Proposal is submitted:
 
@@ -40,8 +40,6 @@ Any Member of the DAO can propose to swap an amount of X Tokens held by the DAO 
 
 Any member of the DAO can propose to evict another Member from the DAO through a Guildkick Proposal. If this Guildkick Proposal is approved, the _Shares_ of this Member are converted into _Loots,_ aka _Shares_ without any voting right_._ Once all the Proposals approved by this Member are processed, the Member can redim his Loots through a Ragequit (this operation can also be triggered by any Member of the DAO through a Ragekick).
 
-
-
 ## Moloch V2 Ragequit mecanism
 
 Any Member can leave the DAO with the Ragequit functionnality:
@@ -50,20 +48,3 @@ Any Member can leave the DAO with the Ragequit functionnality:
 * His _Shares_ are burned
 
 The Ragequit functionality is not only a way to exit the DAO and redim his Assets but also a security feature to protects DAO Members from 51% attacks : during the grace period, Members who voted NO or did not vote can Ragequit ; Members who voted YES cannot Ragequit until the grace period is over and the Proposal is processed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
