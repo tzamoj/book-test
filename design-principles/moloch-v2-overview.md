@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Once a Proposal is submitted:
+DAO members can submit a Proposal <mark style="color:red;">TODO</mark>. A non DAO member can also submit a Proposal to apply for membership. To be submitted, this Proposal has to be sponsored by an existing member of the DAO.
 
 * DAO Members can vote for or against the Proposal during the Voting Period
 * Once the Voting Period over, if the Proposal is approved by a majority of Voters, the Proposal enters a Grace Period
