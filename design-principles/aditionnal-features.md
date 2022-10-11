@@ -4,13 +4,12 @@
 
 Moloch on Starknet uses a role-based membership system. Members are assigned roles, hence a different set of rights  per type of proposal.
 
-The first version includes 3 roles :
+Alpha version includes 2 roles :
 
 1. Administrator: responsible for onboarding new members and whitelisting assets
 2. Governor: responsible for the governance of the assets.
-3. Guild Member : responsible for the management of the Bank assets
 
-The V1 will allow to define any set of roles.
+The Beta version will allow to define any set of roles.
 
 ##
 
