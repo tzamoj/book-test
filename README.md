@@ -2,7 +2,7 @@
 
 **Moloch on Starknet** is a DAO Framework, implementing most of **Moloch V2** features, adding new functionalities to provide more flexibility for roles & proposals management and running on **Starknet**.
 
-It has been designed in order to facilitate its roll-out in a Corporate environnement, with the ability to:
+It has been designed in order to facilitate a roll-out in a Corporate environnement, with the ability to:
 
 * Onboard end-users are not crypto-natives, leveraging on Wallets implementing social recovery features
 * Fine-tune the proposals management and the voting rules in order to be able to (i) manage externally defined criterias (e.g. membership) (ii) set-up the right set of parameters to align voting rights & accountability (e.g. whitelisting)
