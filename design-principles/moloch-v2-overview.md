@@ -6,11 +6,7 @@ Applications for membership are managed through a proposal, where the applicant 
 
 The DAO treasury (_the Bank_), which includes initially all the _Tributes_ paid by the members of the DAO, can also be managed through proposals, as transfer proposals (for Grants) or trade proposals (swap of assets held by _the Bank_ with other assets, for investment purpose).
 
-A member can exit the DAO at any time, as he can withdraw the part of the assets the Bank he owns accordingly to his shareholding.
-
-
-
-
+A member can exit the DAO at any time, as he can burn his Shares and withdraw the part of the assets the Bank he owns accordingly to his shareholding.
 
 ## Moloch V2 Proposal Workflow
 
