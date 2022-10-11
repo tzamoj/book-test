@@ -13,7 +13,7 @@ Alpha Version fits our internal Use Case requirements and will be rolled-out at 
 For a comprehensive description of the Moloch DAO Framework see [Moloch V2 Github](https://github.com/MolochVentures/moloch) and [Moloch V1 Github](https://github.com/MolochVentures/moloch/tree/minimal-revenue/v1\_contracts)
 {% endhint %}
 
-:tada:Thank you to Moloch contributors and Ameen Soleimani <img src=".gitbook/assets/moloch1.jpg" alt="" data-size="line">
+<img src=".gitbook/assets/moloch1.jpg" alt="" data-size="line">Thank you to Moloch contributors and Ameen Soleimani
 
 ## Want to jump right in?
 
