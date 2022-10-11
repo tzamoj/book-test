@@ -14,3 +14,19 @@ The V1 will allow to define any set of roles.
 
 ## Proposal custom settings
 
+Each proposal type can be customized with a set of parameters:
+
+* **Proposal time limits:**
+  * Voting period
+  * Grace period
+* **Proposal submission:**
+  * Which role(s) can submit a proposal
+  * Bypass Voting period (Y/N)
+* **Proposal sponsoring:**
+  * Which role(s) can submit a proposal (if null, no sponsoring needed)
+* **Proposal voting:**&#x20;
+  * Which role(s) can vote on a proposal
+  * Quorum needed
+  * Majority needed
+* **Propal vetoing;**
+  * Which role(s) can veto a proposal (if null, no vetoing allowed)
