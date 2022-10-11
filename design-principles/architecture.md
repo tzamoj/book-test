@@ -4,7 +4,7 @@
 
 * Front-end : Serverless - Astro<img src="../.gitbook/assets/astro.png" alt="" data-size="line">
 * Back-end : Hosted, read-only, relies on indexing : Apibara <img src="../.gitbook/assets/apibara (1).png" alt="" data-size="line">, MongoDB<img src="../.gitbook/assets/MongoDB.jpg" alt="" data-size="line">, GraphQL<img src="../.gitbook/assets/GraphQL.png" alt="" data-size="line">
-* Smart Contrats : Cairo <img src="../.gitbook/assets/cairo.svg" alt="" data-size="line">o&#x20;
+* Smart Contrats : Cairo <img src="../.gitbook/assets/cairo.svg" alt="" data-size="line">&#x20;
 
 ## Modules
 
