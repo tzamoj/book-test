@@ -6,7 +6,7 @@ Screen
 
 The list of proposals can be:&#x20;
 
-* Ordered (Time remaining ASC / DESC, Date subtimetted ASC/DESC, Date processed ASC/DESC )
+* Ordered (Time remaining ASC / DESC, Date submitted ASC/DESC, Date processed ASC/DESC )
 * Filtered (Active / Status / Type)
 
 Filtering items are the followings:
