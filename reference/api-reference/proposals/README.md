@@ -1,16 +1,14 @@
 # Proposals
 
-This is a library module on which proposal modules are based on.
+This is a library module on which proposal submodules are based on.
 
-_Proposal_ _Kind_ :
+_Proposal_ _Kind_ : Each proposal made is of a certain kind. For example, it can be a member onboarding, or a financial swap. Proposal's logic are implemented in submodules, one for each kind.
 
-Each proposal made is of a certain kind. For example, it can be a member onboarding, or a financial swap. Proposal's logic are implemented in submodules, one for each kind.
+_Parameters:_ A proposal have parametrisable rules governing its lifecycle. These parameters apply on a proposal kind basis as different kinds of proposals may have different needs.
 
-_Parameters:_
-
-A proposal have parametrisable rules governing its lifecycle. These parameters apply on a proposal kind basis as different kinds of proposals may have different needs.
-
-
+{% hint style="danger" %}
+Misparametrisation of proposal kinds can lead to security issues. For example, setting the graceDuration to zero effectively disables the grace period, bypassing ragequit security mecanism for proposals of this kind.
+{% endhint %}
 
 ### Structs
 
@@ -18,12 +16,14 @@ A proposal have parametrisable rules governing its lifecycle. These parameters a
 
 <summary>ProposalParams</summary>
 
-Description...
+Parameters pertaining to proposals' lifecycle.
 
-* majority (felt):
-* quorum (felt):
-* votingDuration (felt):
-* graceDuration (felt):
+_Members_:
+
+* majority (felt): reject proposal if the percentage of YES votes among eligible votes is lower than majority.
+* quorum (felt): reject proposal if the percentage of casted votes among eligible votes is lower than quorum.
+* votingDuration (felt): duration of the voting period in block numbers.
+* graceDuration (felt): duration of the grace period in block numbers.
 
 </details>
 
@@ -31,14 +31,14 @@ Description...
 
 <summary>ProposalInfo</summary>
 
-Description
+Basic information saved per submitted proposal.
 
-* id (felt):
-* type (felt):&#x20;
-* submittedBy (felt):&#x20;
-* submittedAt (felt):
-* status (felt):
-* description (felt):
+* id (felt): An incremental identifier for the proposal.
+* kind (felt): The proposal's kind as a short-string.&#x20;
+* submittedBy (felt): Address of the submiter.
+* submittedAt (felt): Number of the block which includes the proposal's submission.
+* status (felt): The actual state of the proposal in its lifecycle.
+* description (felt): A short string describing the proposal's content.
 
 </details>
 
@@ -55,6 +55,14 @@ _Arguments_
 _Returns_
 
 * ProposalParams
+
+</details>
+
+<details>
+
+<summary>proposalsLength</summary>
+
+
 
 </details>
 
@@ -75,8 +83,6 @@ _Returns_
 
 * success: felt
 
-_Description_
-
 </details>
 
 <details>
@@ -90,8 +96,6 @@ _Arguments_
 _Returns_
 
 * success: felt
-
-_Description_
 
 </details>
 

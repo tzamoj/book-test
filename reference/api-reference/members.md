@@ -4,7 +4,7 @@ The module is mainly used internally for DAO members' management. It keeps track
 
 _Delegation_: Each member also has the possibility to delegate his/her vote to someone else through the delegatedKey mechanism. The delegateKey is fully managed by the owner, but the delegate has to be a member of the DAO. By default, the delegate and the member are the same, meaning in effect no delegation.
 
-### Structs
+## Structs
 
 <details>
 
@@ -23,7 +23,7 @@ _Members_:
 
 </details>
 
-### Storage Variables
+## Storage Variables
 
 <details>
 
@@ -69,17 +69,17 @@ _Returns_:
 
 </details>
 
-### External Functions
+## External Functions
 
 <details>
 
-<summary>addDelegatedKey</summary>
+<summary>delegateVote</summary>
 
 Allows a member to declare another member (possibly self) as a delegate
 
 _Arguments_:
 
-* delegateKey (felt): delegate's address
+* delegatedKey (felt): delegate's address
 
 _Returns_:
 
@@ -94,7 +94,7 @@ _Guards_:
 
 <details>
 
-<summary>revokeDelegatedKey</summary>
+<summary>revokeDelegate</summary>
 
 The caller revokes his/her delegate. This is a convenience function for calling addDelegatdKey with his/her own address as a delegate.
 
