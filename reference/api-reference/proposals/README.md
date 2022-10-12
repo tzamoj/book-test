@@ -1,6 +1,16 @@
 # Proposals
 
-TODO: short module description
+This is a library module on which proposal modules are based on.
+
+_Proposal_ _Kind_ :
+
+Each proposal made is of a certain kind. For example, it can be a member onboarding, or a financial swap. Proposal's logic are implemented in submodules, one for each kind.
+
+_Parameters:_
+
+A proposal have parametrisable rules governing its lifecycle. These parameters apply on a proposal kind basis as different kinds of proposals may have different needs.
+
+
 
 ### Structs
 

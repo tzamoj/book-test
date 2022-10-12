@@ -12,7 +12,6 @@
 ## Reference
 
 * [API Reference](reference/api-reference/README.md)
-  * [Roles](reference/api-reference/roles.md)
   * [Members](reference/api-reference/members.md)
   * [Proposals](reference/api-reference/proposals/README.md)
     * [GuildKick](reference/api-reference/proposals/proposals/guildkick.md)
