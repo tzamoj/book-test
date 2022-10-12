@@ -16,4 +16,4 @@ The DAO's contract follows a modular design that allows to (i) incorporate only 
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>DAO contract's modular design</p></figcaption></figure>
 
-Unlike Moloch V2, every type of proposal has its own module separatedly implementing submiting and processing logic. One of the reasons to do so is to make their lifecycle more configurable, especially regarding role-based autorisation on a per type basis. For example in Quadratic's DAO, only Admins are allowed to onboard a new member, as other members are not legally accountable for that action.
+Unlike Moloch V2, every type of proposal has its own module separatedly implementing submiting and processing logic. One of the reasons to do so is to make their lifecycle more configurable, especially regarding role-based autorisation on a per type basis. For example in Alpha version, only Admins are allowed to onboard a new member, as other members are not legally accountable for that action.
