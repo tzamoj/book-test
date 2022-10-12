@@ -18,3 +18,10 @@
     * [Onboard](reference/api-reference/proposals/onboard.md)
   * [Bank](reference/api-reference/bank.md)
 * [Quick Start](reference/quick-start.md)
+
+## Alpha version UI
+
+* [Login](alpha-version-ui/login.md)
+* [Proposals](alpha-version-ui/proposals.md)
+* [My profile](alpha-version-ui/my-profile.md)
+* [Monitoring](alpha-version-ui/monitoring.md)
