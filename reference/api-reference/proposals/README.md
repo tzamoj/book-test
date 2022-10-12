@@ -145,13 +145,3 @@ _Returns_
 * success: felt
 
 </details>
-
-## Submodules
-
-{% content-ref url="proposals/guildkick.md" %}
-[guildkick.md](proposals/guildkick.md)
-{% endcontent-ref %}
-
-{% content-ref url="onboard.md" %}
-[onboard.md](onboard.md)
-{% endcontent-ref %}
