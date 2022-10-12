@@ -2,7 +2,7 @@
 
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
-Moloch on Starknet uses a role-based membership system. Members are assigned roles, hence a different set of rights  per type of proposal.
+Moloch on Starknet uses a role-based membership system. Members are assigned roles, hence a different set of rights per type of proposal.
 
 Alpha version includes 2 roles :
 
@@ -10,8 +10,6 @@ Alpha version includes 2 roles :
 2. Governor: responsible for the governance of the assets.
 
 The Beta version will allow to define any set of roles.
-
-##
 
 ## Proposal custom settings
 
@@ -22,12 +20,12 @@ Each proposal type can be customized with a set of parameters:
   * Grace period
 * **Proposal submission:**
   * Which role(s) can submit a proposal
-  * Bypass Voting period (Y/N)
+  * Bypass voting period (Y/N)
 * **Proposal sponsoring:**
-  * Which role(s) can submit a proposal (if null, no sponsoring needed)
+  * Which role(s) can sponsor a proposal (if not specified, no sponsoring needed)
 * **Proposal voting:**&#x20;
   * Which role(s) can vote on a proposal
   * Quorum needed
   * Majority needed
-* **Propal vetoing;**
+* **Proposal vetoing;**
   * Which role(s) can veto a proposal (if null, no vetoing allowed)
