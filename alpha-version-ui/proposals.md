@@ -39,4 +39,5 @@ Each proposal item includes:
 * The time remaining before next status change
 * The majority needed / the current majority (voting period) / the majority (non voting phase)
 * The quorum needed / the current quorum (voting period) / the quorum (non voting phase)
-*
+* The number of YES votes & NO votes
+* Buttons ![](<../.gitbook/assets/image (2).png>)to vote&#x20;
