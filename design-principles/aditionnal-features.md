@@ -3,7 +3,7 @@
 The initial Use Case that motivated the development of the Alpha version (setup of Quadratic employees profit sharing fund) implied to develop some additional functionalites on top Moloch V2:
 
 * As membership is restricted to Quadratic's Employees, membership proposals cannot be voted by the DAO members but have to be enforced by an Admin who has the full view of the payroll
-* As the firm can be accountable on the consequences of some processed proposals, dedicated voting rights have to be defined on some proposals (e.g. whitelisting) or&#x20;
+* As the firm can be accountable on the consequences of some processed proposals, dedicated voting rights have to be defined on some proposals (e.g. whitelisting, grants) or a right of veto can be introduced
 
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
