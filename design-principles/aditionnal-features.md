@@ -24,10 +24,10 @@ Each proposal type can be customized with a set of parameters:
   * Which role(s) can submit a proposal
   * Bypass Voting period (Y/N)
 * **Proposal sponsoring:**
-  * Which role(s) can submit a proposal (if null, no sponsoring needed)
+  * Which role(s) can sponsor a proposal (if null, no sponsoring needed)
 * **Proposal voting:**&#x20;
   * Which role(s) can vote on a proposal
   * Quorum needed
   * Majority needed
-* **Propal vetoing;**
+* **Proposal vetoing;**
   * Which role(s) can veto a proposal (if null, no vetoing allowed)
