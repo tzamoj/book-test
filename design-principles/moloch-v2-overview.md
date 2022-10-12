@@ -33,7 +33,7 @@ To enter the voting period, this proposal has to be sponsored by an existing DAO
 
 ### Whitelisting
 
-At DAO's setup, an ERC20 is defined as the DAO's Primary Token ; this Token is the Payment Token  and any Tribute offered has to be paid with this ERC20. To allow the Tribute to be paid with another Token, and more generally to allow the Bank to manage other kinds of Tokens, a Whitelisting proposal has to be accepted and processed.
+At DAO's setup, an ERC20 is defined as the DAO's Primary Token ; this Token is the Payment Token  and any Tribute offered has to be paid with this ERC20. To allow the _Tribute_ to be paid with another Token, and more generally to allow the Bank to manage other kinds of Tokens, a Whitelisting proposal has to be accepted and processed.
 
 ### Grant proposal
 
