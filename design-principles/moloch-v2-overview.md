@@ -31,6 +31,8 @@ Anyone can apply to the DAO membership by submitting a proposal with :
 
 To enter the voting period, this proposal has to be sponsored by an existing DAO member who pays a fee in the DAO's _Payment Token_. If the proposal is approved and processed, the _Tribute_ is added to the DAO _Bank_ while the _Shares_ are minted and are allocated to the new member.
 
+DAO members can also submit a membership proposal on behalf an external applicant.
+
 ### Whitelisting
 
 At DAO's setup, an ERC20 is defined as the DAO's Primary Token ; this Token is the Payment Token  and any Tribute offered has to be paid with this ERC20. To allow the _Tribute_ to be paid with another Token, and more generally to allow the Bank to manage other kinds of Tokens, a Whitelisting proposal has to be accepted and processed.
