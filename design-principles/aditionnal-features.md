@@ -5,6 +5,10 @@ The initial Use Case that motivated the development of the Alpha version (setup 
 * As membership is restricted to Quadratic's Employees, membership proposals cannot be voted by the DAO members but have to be enforced by an Admin who has the full view of the payroll
 * As the firm can be accountable on the consequences of some processed proposals, dedicated voting rights have to be defined on some proposals (e.g. whitelisting, grants) or a right of veto can be introduced
 
+The Alpha version includes the aditionnal functionalities needed to implement the setup of Quadratic employees profit sharing fund.
+
+
+
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
 Moloch on Starknet uses a role-based membership system. Members are assigned roles, hence a different set of rights per type of proposal.
