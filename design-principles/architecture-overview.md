@@ -8,7 +8,7 @@
 
 ## Smart Contracts&#x20;
 
-Like Moloch V2, the DAO is deployed as a single contract. Although not strictly necessary, we recommend deploying the DAO as an upgradeable contract through a proxy.
+Like Moloch V2, the DAO is deployed as a single contract. Although not strictly necessary, it can deployed as an upgradeable contract through a proxy.
 
 The DAO's contract follows a modular design that allows to (i) incorporate only the modules that are needed (ii) extend existing functionalities with new modules (implementing a minimal interface). This departure from Moloch V2 gives the DAO extra flexibility allowing to personalise its functionalities while keeping a simple maintainable design.
 
