@@ -9,6 +9,8 @@ The Alpha version includes the aditionnal functionalities needed to implement th
 
 The Beta version will aim to be more generic and allow the full customization of the roles and the proposal parameters.
 
+Meover account abstraction....
+
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
 Moloch on Starknet uses a role-based membership system. Members are assigned roles, hence a different set of rights per type of proposal.
