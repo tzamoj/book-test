@@ -1,5 +1,9 @@
 # Aditionnal features
 
+The initial Use Case that motivated the development of the Alpha version (setup of Quadratic Employees profit sharing fund) implied to develop some additional functionalites on top Moloch V2:
+
+*
+
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
 Moloch on Starknet uses a role-based membership system. Members are assigned roles, hence a different set of rights per type of proposal.
