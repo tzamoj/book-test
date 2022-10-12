@@ -15,7 +15,7 @@ A member can exit the DAO at any time, as he can burn his/her _Shares_ and withd
 * DAO members can submit a proposal  ; this requires the payment of a fee in the DAO's _Payment Token._ A non member can also submit a proposal to apply for membership. To be submitted, this proposal has to be sponsored by an existing DAO member.
 * DAO members can vote for or against the submitted proposal during the voting period
 * Once the voting period is over, if the proposal is approved by a majority of voters, the proposal enters a grace period
-* During the grace period, members who voted against the proposal can exit the DAO (aka Ragequit)
+* During the grace period, members who haven't approved the proposal can exit the DAO (aka Ragequit)
 * Once the grace period is over, any DAO member can process the proposal (aka execute it) ; users are incentivized to do so as they get a reward in the DAO's _Payment Token._
 
 
