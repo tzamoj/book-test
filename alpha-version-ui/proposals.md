@@ -40,4 +40,5 @@ Each proposal item includes:
 * The majority needed / the current majority (voting period) / the majority (non voting phase)
 * The quorum needed / the current quorum (voting period) / the quorum (non voting phase)
 * The number of YES votes & NO votes
-* Buttons <img src="../.gitbook/assets/image (8).png" alt="" data-size="line"> and <img src="../.gitbook/assets/image.png" alt="" data-size="line">to vote&#x20;
+* Buttons <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> and <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> to vote on the proposal (if voting period and applicable to the role)
+* A button <img src="../.gitbook/assets/image.png" alt="" data-size="line"> to access...
