@@ -31,3 +31,12 @@ Filtering items are the followings:
 | Type   | Signal     |           |
 | Type   | Whitelist  |           |
 | Type   | Swap       |           |
+
+Each proposal item includes:
+
+* The title of the proposal
+* The status of the proposal
+* The time remaining before next status change
+* The majority needed / the current majority (voting period) / the majority (non voting phase)
+* The quorum needed / the current quorum (voting period) / the quorum (non voting phase)
+*
