@@ -11,10 +11,10 @@
 
 ## Reference
 
-* [API Reference](reference/api-reference/README.md)
-  * [Members](reference/api-reference/members.md)
-  * [Proposals](reference/api-reference/proposals/README.md)
-    * [GuildKick](reference/api-reference/proposals/proposals/guildkick.md)
-    * [Onboard](reference/api-reference/proposals/onboard.md)
-  * [Bank](reference/api-reference/bank.md)
+* [Smart Contract Reference](reference/smart-contract-reference/README.md)
+  * [Members](reference/smart-contract-reference/members.md)
+  * [Proposals](reference/smart-contract-reference/proposals/README.md)
+    * [GuildKick](reference/smart-contract-reference/proposals/proposals/guildkick.md)
+    * [Onboard](reference/smart-contract-reference/proposals/onboard.md)
+  * [Bank](reference/smart-contract-reference/bank.md)
 * [Quick Start](reference/quick-start.md)
