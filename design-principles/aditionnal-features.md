@@ -22,7 +22,7 @@ The Beta version will allow to define any set of roles.
 
 ## Proposal custom settings
 
-Each proposal type can be customized with a set of parameters:
+Beta version will allow to customize any kind of proposal with a set of parameters:
 
 * **Proposal time limits:**
   * Voting period
