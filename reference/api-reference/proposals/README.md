@@ -119,7 +119,7 @@ All proposals follow the following minimum interface, where functions are allowe
 
 <details>
 
-<summary>submit</summary>
+<summary>submit (external function)</summary>
 
 _Arguments_
 
@@ -134,7 +134,7 @@ _Returns_
 
 <details>
 
-<summary>execute</summary>
+<summary>execute (external function)</summary>
 
 _Arguments_
 
