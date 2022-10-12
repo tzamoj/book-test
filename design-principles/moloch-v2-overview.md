@@ -18,8 +18,6 @@ A member can exit the DAO at any time, as he can burn his/her _Shares_ and withd
 * During the grace period, members who haven't approved the proposal can exit the DAO (aka Ragequit)
 * Once the grace period is over, any DAO member can process the proposal (aka execute it) ; users are incentivized to do so as they get a reward in the DAO's _Payment Token._
 
-
-
 ## Moloch V2 Main Proposal Types
 
 ### Membership
@@ -39,11 +37,11 @@ At DAO's setup, an ERC20 is defined as the DAO's _Primary Token_ ; this Token is
 
 ### Grant proposal
 
-Any member can propose to transfer a quantity of Tokens held by the Bank to an external address.
+Any member can propose to transfer a quantity of Tokens held by the _Bank_ to an external address.
 
 ### Trade proposal
 
-Any member can propose to swap an amount of X Tokens held by the Bank with Y whitelisted Tokens.
+Any member can propose to swap an amount of X Tokens held by the _Bank_ with Y whitelisted Tokens.
 
 ### Guildkick
 
@@ -53,7 +51,7 @@ Any member can propose to evict another member from the DAO through a Guildkick 
 
 Any member can leave the DAO with the Ragequit functionnality:
 
-* A member is allowed to withdraw his/her part of the Tokens held by the Bank based on his/her shareholding
+* A member is allowed to withdraw his/her part of the Tokens held by the _Bank_ based on his/her shareholding
 * &#x20;His/her _Shares_ are burned
 
-The Ragequit functionality is not only a way to exit the DAO and redeem his Assets. It is also a security feature to protect DAO Members from 51% attacks : during the grace period, members who voted NO or did not vote can Ragequit, claiming their shares before the proposal is processed; Members who voted YES cannot Ragequit until the grace period is over and the proposal is processed.
+The Ragequit functionality is not only a way to exit the DAO and redeem his assets. It is also a security feature to protect DAO members from 51% attacks : during the grace period, members who voted NO or did not vote can Ragequit, claiming their _Shares_ before the proposal is processed; Members who voted YES cannot Ragequit until the grace period is over and the proposal is processed.
