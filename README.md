@@ -21,8 +21,8 @@ For a comprehensive description of the Moloch DAO Framework see [Moloch V2 Githu
 
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
-{% content-ref url="reference/quick-start.md" %}
-[quick-start.md](reference/quick-start.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Want to deep dive?

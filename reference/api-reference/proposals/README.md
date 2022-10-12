@@ -1,16 +1,82 @@
 # Proposals
 
-This is a library module on which proposal submodules are based on.
+Proposals are implemented through a collection of submodules under proposals: 1 library module containing the core interface and implementation, and 1 submodule per proposal kind.
 
-_Proposal_ _Kind_ : Each proposal made is of a certain kind. For example, it can be a member onboarding, or a financial swap. Proposal's logic are implemented in submodules, one for each kind.
+## Stored Information
 
-_Parameters:_ A proposal have parametrisable rules governing its lifecycle. These parameters apply on a proposal kind basis as different kinds of proposals may have different needs.
+A proposal is submitted with at least the following information kept in a struct:
 
-{% hint style="danger" %}
-Misparametrisation of proposal kinds can lead to security issues. For example, setting the graceDuration to zero effectively disables the grace period, bypassing ragequit security mecanism for proposals of this kind.
-{% endhint %}
+<details>
 
-### Structs
+<summary>ProposalInfo (struct)</summary>
+
+Basic information saved per submitted proposal.
+
+* id (felt): An incremental identifier for the proposal.
+* kind (felt): The proposal's kind as a short-string.&#x20;
+* submittedBy (felt): Address of the submiter.
+* submittedAt (felt): Number of the block which includes the proposal's submission.
+* status (felt): The actual state of the proposal in its lifecycle.
+* description (felt): A short string describing the proposal's content.
+
+</details>
+
+Additional information can be included that depends on the proposal's kind. In that case, it is handled by the kind's submodule directly, so that no further assumption is needed.
+
+The DAO records the list of all proposals that were ever submitted onchain through the following 2 storage variables:
+
+<details>
+
+<summary>proposalsLength (storage_var)</summary>
+
+The number of proposals ever submitted to the DAO.
+
+_Returns_:
+
+* length (felt)
+
+</details>
+
+<details>
+
+<summary>proposals (storage_var)</summary>
+
+The list of all proposals' info.
+
+_Arguments_:
+
+* id (felt): the positional index of the proposal, which is also its proposalId
+
+_Returns_:
+
+* proposal (ProposalInfo)
+
+</details>
+
+## Lifecycle
+
+A proposal goes through a few phases in its lifecycle. A proposal's status records which phase it is in, one from the following enum:
+
+<details>
+
+<summary>Proposal (namespace):</summary>
+
+* SUBMITTED = 'submitted' : in voting period
+* ACCEPTED = 'accepted' : accepted and in grace period
+* REJECTED = 'rejected' : rejected
+* FORCED = 'forced' : sent directly to grace period
+
+The following status are final, meaning the proposal has been closed:
+
+* ABORTED = 'aborted' : did not go completely through voting
+* EXECUTED = 'executed' : Execution is finalised and successful&#x20;
+* FAILED = 'failed' : execution failed
+
+</details>
+
+## Parametrisation
+
+Proposals can be parametrised on a per kind basis (e.g.: member onboarding, or swaps), as each kind can have different needs. The parameters govern all proposals' lifecycle of its kind. All parameters are kept in the following structure:
 
 <details>
 
@@ -27,22 +93,7 @@ _Members_:
 
 </details>
 
-<details>
-
-<summary>ProposalInfo</summary>
-
-Basic information saved per submitted proposal.
-
-* id (felt): An incremental identifier for the proposal.
-* kind (felt): The proposal's kind as a short-string.&#x20;
-* submittedBy (felt): Address of the submiter.
-* submittedAt (felt): Number of the block which includes the proposal's submission.
-* status (felt): The actual state of the proposal in its lifecycle.
-* description (felt): A short string describing the proposal's content.
-
-</details>
-
-### Storage Variables
+The DAO keeps the current parametrisation in a mapping between proposal kind and parameters:
 
 <details>
 
@@ -58,15 +109,11 @@ _Returns_
 
 </details>
 
-<details>
+{% hint style="danger" %}
+Misparametrisation of proposal kinds can lead to security issues. For example, setting the graceDuration to zero effectively disables the grace period, bypassing ragequit security mecanism for proposals of this kind.
+{% endhint %}
 
-<summary>proposalsLength</summary>
-
-
-
-</details>
-
-### Functions
+## Implementing proposals &#x20;
 
 All proposals follow the following minimum interface, where functions are allowed to have more arguments than default ones if necessary:
 
