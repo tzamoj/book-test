@@ -23,3 +23,11 @@ Filtering items are the followings:
 | Status | Grace period    |           |
 | Status | To be processed |           |
 | Status | Processed       |           |
+
+| Filter | Element    | Indicator |
+| ------ | ---------- | --------- |
+| Type   | Onboard    |           |
+| Type   | Add Shares |           |
+| Type   | Signal     |           |
+| Type   | Whitelist  |           |
+| Type   | Swap       |           |
