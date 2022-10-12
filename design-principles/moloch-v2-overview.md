@@ -35,25 +35,25 @@ DAO members can also submit a membership proposal on behalf an external applican
 
 ### Whitelisting
 
-At DAO's setup, an ERC20 is defined as the DAO's Primary Token ; this Token is the Payment Token  and any Tribute offered has to be paid with this ERC20. To allow the _Tribute_ to be paid with another Token, and more generally to allow the Bank to manage other kinds of Tokens, a Whitelisting proposal has to be accepted and processed.
+At DAO's setup, an ERC20 is defined as the DAO's _Primary Token_ ; this Token is the _Payment Token_ and any _Tribute_ offered has to be paid with this ERC20. To allow the _Tribute_ to be paid with another Token, and more generally to allow the _Bank_ to manage other kinds of Tokens, a whitelisting proposal has to be accepted and processed.
 
 ### Grant proposal
 
-Any Member can propose to transfer a quantity of Tokens held by the Bank to an address.
+Any member can propose to transfer a quantity of Tokens held by the Bank to an external address.
 
 ### Trade proposal
 
-Any Member can propose to swap an amount of X Tokens held by the Bank with Y whitelisted Tokens.
+Any member can propose to swap an amount of X Tokens held by the Bank with Y whitelisted Tokens.
 
 ### Guildkick
 
-Any member can propose to evict another Member from the DAO through a Guildkick Proposal. If this Guildkick Proposal is approved, the evicted Member's _Shares_ are converted into _Loots,_ aka _Shares_ without any voting right_._ Once all the Proposals approved by this Member are processed, the Member can redeem his Loots through a Ragequit (this operation can also be triggered by any Member through a Ragekick).
+Any member can propose to evict another member from the DAO through a Guildkick proposal. If this Guildkick proposal is approved, the evicted member's _Shares_ are converted into _Loots,_ aka _Shares_ without any voting right_._ Once all the proposals approved by this member are processed, the member can redeem his _Loots_ through a Ragequit (this operation can also be triggered by any member through a Ragekick).
 
 ## Moloch V2 Ragequit mecanism
 
-Any Member can leave the DAO with the Ragequit functionnality:
+Any member can leave the DAO with the Ragequit functionnality:
 
-* A Member is allowed to withdraw his/her part of the Tokens held by the Bank based on his/her shareholding
-* &#x20;_Shares_ are burned
+* A member is allowed to withdraw his/her part of the Tokens held by the Bank based on his/her shareholding
+* &#x20;His/her _Shares_ are burned
 
-The Ragequit functionality is not only a way to exit the DAO and redeem his Assets. It is also a security feature to protect DAO Members from 51% attacks : during the grace period, Members who voted NO or did not vote can Ragequit, claiming their shares before the proposal is processed; Members who voted YES cannot Ragequit until the grace period is over and the Proposal is processed.
+The Ragequit functionality is not only a way to exit the DAO and redeem his Assets. It is also a security feature to protect DAO Members from 51% attacks : during the grace period, members who voted NO or did not vote can Ragequit, claiming their shares before the proposal is processed; Members who voted YES cannot Ragequit until the grace period is over and the proposal is processed.
