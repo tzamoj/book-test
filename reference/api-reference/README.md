@@ -4,8 +4,8 @@
 [members.md](members.md)
 {% endcontent-ref %}
 
-{% content-ref url="../smart-contract-reference/proposals.md" %}
-[proposals.md](../smart-contract-reference/proposals.md)
+{% content-ref url="proposals/" %}
+[proposals](proposals/)
 {% endcontent-ref %}
 
 {% content-ref url="bank.md" %}
