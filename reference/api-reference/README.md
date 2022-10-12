@@ -1,4 +1,4 @@
-# Smart Contract Reference
+# API Reference
 
 ## Modules
 
