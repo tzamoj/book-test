@@ -13,9 +13,7 @@
 
 * [Smart Contract Reference](reference/api-reference/README.md)
   * [Members](reference/api-reference/members.md)
-  * [Proposals](reference/api-reference/proposals/README.md)
-    * [GuildKick](reference/api-reference/proposals/proposals/guildkick.md)
-    * [Onboard](reference/api-reference/proposals/onboard.md)
+  * [Proposals](reference/smart-contract-reference/proposals.md)
   * [Bank](reference/api-reference/bank.md)
 * [Quick Start](reference/quick-start.md)
 
