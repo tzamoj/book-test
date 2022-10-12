@@ -16,7 +16,10 @@ Filtering items are the followings:
 | Active | Yes     | Status is submitted OR accepted OR forced           |
 | Active | No      | Status is aborted OR rejected OR executed OR failed |
 | Active | All     |                                                     |
-|        |         |                                                     |
-|        |         |                                                     |
-|        |         |                                                     |
 
+| Filter | Element         | Indicator |
+| ------ | --------------- | --------- |
+| Status | Voting period   |           |
+| Status | Grace period    |           |
+| Status | To be processed |           |
+| Status | Processed       |           |
