@@ -7,7 +7,7 @@ The initial Use Case that motivated the development of the Alpha version (setup 
 
 The Alpha version includes the aditionnal functionalities needed to implement the setup of Quadratic employees profit sharing fund.
 
-
+The Beta version will aim to be more generic and allow the full customization of the roles and the proposal parameters.
 
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
