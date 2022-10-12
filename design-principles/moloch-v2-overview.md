@@ -4,7 +4,7 @@ Moloch V2 operates through submission and voting of proposals.&#x20;
 
 Applications for membership are managed through a proposal, where the applicant proposes an amount of Tokens (the _Tribute_) in exchange of some _Shares_ of the DAO.
 
-The DAO treasury (the _Bank_), which initially includes all the _Tributes_ paid by DAO members, can also be managed through proposals, as transfer proposals (for grants) or trade proposals (swap of assets held by _the Bank_ with other assets, for investment purpose).
+The DAO treasury (the _Bank_), which initially includes all the _Tributes_ paid by DAO members, can also be managed through proposals, as transfer proposals (for grants) or trade proposals (swap of assets held by the _Bank_ with other assets, for investment purpose).
 
 A member can exit the DAO at any time, as he can burn his/her _Shares_ and withdraw the part of the assets in the Bank he/she owns according to his shareholding.
 
@@ -24,12 +24,12 @@ A member can exit the DAO at any time, as he can burn his/her _Shares_ and withd
 
 ### Membership
 
-Anyone can apply to the DAO Membership by submitting a proposal with :
+Anyone can apply to the DAO membership by submitting a proposal with :
 
 * The desired number of _Shares_ of the DAO
-* The _Tribute_ offered in exchange of the _Shares (_aka an amount of whitelisted Tokens)
+* The _Tribute_ offered in exchange of the _Shares_ (aka an amount of whitelisted Tokens)
 
-To enter the Voting Period, this Proposal has to be sponsored by an existing DAO member who pays a fee in the DAO's _Payment Token_. If the Proposal is approved and processed, the Tribute is added to the DAO Bank while the Shares are minted and are allocated to the new Member.
+To enter the voting period, this proposal has to be sponsored by an existing DAO member who pays a fee in the DAO's _Payment Token_. If the proposal is approved and processed, the _Tribute_ is added to the DAO _Bank_ while the _Shares_ are minted and are allocated to the new member.
 
 ### Whitelisting
 
