@@ -18,9 +18,9 @@
   * [Proposals](reference/api-reference/proposals/README.md)
   * [Bank](reference/api-reference/bank.md)
 
-## Alpha version UI
+## UI (Alpha version)
 
-* [Login](alpha-version-ui/login.md)
-* [Proposals](alpha-version-ui/proposals.md)
-* [My profile](alpha-version-ui/my-profile.md)
-* [Monitoring](alpha-version-ui/monitoring.md)
+* [Login](ui-alpha-version/login.md)
+* [Proposals](ui-alpha-version/proposals.md)
+* [My profile](ui-alpha-version/my-profile.md)
+* [Monitoring](ui-alpha-version/monitoring.md)
