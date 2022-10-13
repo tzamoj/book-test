@@ -5,6 +5,7 @@
 ## DESIGN PRINCIPLES
 
 * [Moloch overview](design-principles/moloch-overview.md)
+* [Why a port on Starknet](design-principles/why-a-port-on-starknet.md)
 * [Moloch V2 main features](design-principles/moloch-v2-main-features.md)
 * [Aditionnal features](design-principles/aditionnal-features.md)
 * [Security Assumptions](design-principles/security-assumptions.md)
