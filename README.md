@@ -9,8 +9,6 @@ It has been designed in order to facilitate a roll-out in a Corporate environnem
 
 Alpha Version fits Quadratic internal Use Case (setup of an Employees profit sharing fund) and will be rolled-out at Starknet regenesis.&#x20;
 
-The Beta Version will implement the possibility to fully fine-tune roles & proposals.
-
 {% hint style="warning" %}
 For a comprehensive description of the Moloch DAO Framework see [Moloch V2 Github](https://github.com/MolochVentures/moloch) and [Moloch V1 Github](https://github.com/MolochVentures/moloch/tree/minimal-revenue/v1\_contracts)
 {% endhint %}
