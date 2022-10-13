@@ -5,7 +5,7 @@
 ## DESIGN PRINCIPLES
 
 * [Moloch overview](design-principles/moloch-overview.md)
-* [Moloch V2 Overview](design-principles/moloch-v2-overview.md)
+* [Moloch V2 main features](design-principles/moloch-v2-main-features.md)
 * [Aditionnal features](design-principles/aditionnal-features.md)
 * [Security Assumptions](design-principles/security-assumptions.md)
 * [Architecture overview](design-principles/architecture-overview.md)
