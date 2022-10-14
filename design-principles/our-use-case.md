@@ -15,7 +15,7 @@ The technical implementation of these features relies on a DAO Framework in orde
 * Leverage on Decentralized Governance features
 * Benefit from the liquidity of Crypto-assets to ensure a seamless exit procedure
 
-More generally, this MVP is a \[real]Test  & Learn approach&#x20;
+More generally, this MVP is a \[real]Test  & Learn approach to pave the way to implementing DAO schemes that can be rolled-out in Corporates environnements.
 
 
 
