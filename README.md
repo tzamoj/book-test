@@ -1,4 +1,4 @@
-# Introduction
+# 🔹 Introduction
 
 **Moloch on Starknet** is a MVP, implementing most of **Moloch V2** features, adding new functionalities to provide more flexibility for roles & proposals management and running on **Starknet**.
 

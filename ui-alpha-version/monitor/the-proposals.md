@@ -11,7 +11,7 @@ Each Proposal card includes:
 * The majority needed & the current majority
 * The quorum needed & the current quorum&#x20;
 * The number of YES votes & NO votes
-* Buttons <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> and <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> to vote if the Proposal is in Voting Period
+* Buttons <img src="../../.gitbook/assets/image (5) (3).png" alt="" data-size="line"> and <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> to vote if the Proposal is in Voting Period
 * A button <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> to access granular details such as : type of Proposal / submission date / submitter address...
 * A button "To process" if the Proposal status is "To Process"
 * A button "Processed" if the Proposal status is "Processed"

@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [🔹 Introduction](README.md)
 
-## DESIGN PRINCIPLES
+## Design Principles
 
 * [Moloch overview](design-principles/moloch-overview.md)
 * [Our Use Case](design-principles/our-use-case.md)
