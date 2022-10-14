@@ -5,11 +5,9 @@ The scope of our MVP implies to develop some additional functionalites on top Mo
 * As membership is restricted to Quadratic's Employees, membership proposals cannot be voted by the DAO members but have to be enforced by an Admin who has the full view of the payroll
 * As the firm can be accountable for the consequences of some processed proposals, dedicated voting rights have to be defined on some proposals (e.g. whitelisting, grants) or a right of veto can be introduced
 
-The Alpha version includes the aditionnal functionalities needed to implement the setup of Quadratic employees profit sharing fund.
+Hence we developed :
 
-The Beta version will aim to be more generic and allow the full customization of the roles and the proposal parameters.
-
-Meover account abstraction....
+* a role based membership system to&#x20;
 
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
