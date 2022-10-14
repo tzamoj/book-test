@@ -1,6 +1,6 @@
 # Security Assumptions
 
-Moloch on Starknet will allow to fully customize roles and proposal parameters. If it will be possible to implement the Moloch V2 features as they stand, it will be also possible to introduce some mecanisms that bypass DAO members' rights. For example:
+Our MVP will allow to fully customize roles and proposal parameters. If it will be possible to implement the Moloch V2 features as they stand, it will be also possible to introduce some mecanisms that bypass DAO members' rights. For example:
 
 * Some actions on proposals can be restricted to specific roles (e.g. submission restricted to Admins)
 * The voting period can be skipped altogether (e.g. an Admin whitelisting a token)

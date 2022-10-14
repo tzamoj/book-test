@@ -7,8 +7,8 @@ The scope of our MVP implies to develop some additional functionalites on top Mo
 
 Hence we developed :
 
-* a role based membership system to make a distinction between Users and Admins in charge of actions (i) when accountability of the firm is at stake (ii) when the information to trigger an event is detained by the firm
-* the ability to adjust settings proposal per proposal to grant each roles with the proper set of rights
+* A role based membership system to make a distinction between Users and Admins in charge of actions (i) when accountability of the firm is at stake (ii) when the information to trigger an event is detained by the firm
+* The ability to adjust settings proposal per proposal to grant each roles with the proper set of rights
 
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
