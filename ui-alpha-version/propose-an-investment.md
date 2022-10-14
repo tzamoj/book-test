@@ -37,10 +37,10 @@ A Whitelist Proposal allows to **whitelist a token address in the DAO Treasury**
 
 When you create a Whitelist Proposal, several parameters are needed:
 
-* The Title : the title of your Proposal.
-* The Token Address : the address of the token you want to whitelist.
-* The Ticker : the name of the token that will be displayed in the DAO, such as "UNI".
-* The Link (not mandatory) : a link from the off-chain discussions on the Proposal.
+* Title : the title of your Proposal.
+* Token Address : the address of the token you want to whitelist.
+* Ticker : the name of the token that will be displayed in the DAO, such as "UNI".
+* Link (not mandatory) : a link from the off-chain discussions on the Proposal.
 
 {% hint style="info" %}
 A list of whitelisted tokens can be set by the Admin during the initialization of the DAO.
@@ -59,12 +59,12 @@ There are 2 types of Swap Proposal :&#x20;
 
 <figure><img src="../.gitbook/assets/OTC Swap modified.png" alt=""><figcaption></figcaption></figure>
 
-A member need to fill several parameters:
+When you create a OTC Swap Proposal, several parameters are needed:
 
-* The Title
-* The Token Address
-* The Ticker
-* The Link (not mandatory) :&#x20;
+* Title : the title of your Proposal.
+* Send to the Bank : amount of a specific token you want to send to the Treasury (_only whitelisted tokens will be displayed_)
+* Receive from the Bank : amount of a specific token you want to receive from the Treasury
+* The Link (not mandatory) : a link from the off-chain discussions on the Proposal.
 
 ##
 
