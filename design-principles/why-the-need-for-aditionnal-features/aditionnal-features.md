@@ -13,14 +13,14 @@ Meover account abstraction....
 
 ## Role-based membership system <a href="#markdown-header-members" id="markdown-header-members"></a>
 
-Moloch on Starknet uses a role-based membership system. Members are assigned roles, hence a different set of rights per type of proposal.
+Our MVP uses a role-based membership system. Members are assigned roles, hence a different set of rights per type of proposal.
 
-Alpha version includes 2 roles :
+As of today, it includes 2 roles :
 
 1. Administrator: responsible for onboarding new members and whitelisting assets
 2. Governor: responsible for the governance of the assets.
 
-The Beta version will allow to define any set of roles.
+We will further introduce the possbility to define any set of roles.
 
 ## Proposal custom settings
 
