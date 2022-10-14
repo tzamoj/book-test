@@ -8,7 +8,7 @@ The **Ragequit function** (<img src="../.gitbook/assets/ragequit.png" alt="" dat
 
 The function can be executed only if you have available amount to ragequit AND you did not voted YES on a proposal that has been not executed yet.
 
-<figure><img src="../.gitbook/assets/myprofile ragequit modified.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/myprofile ragequit modified (1).png" alt=""><figcaption></figcaption></figure>
 
 Once the Ragequit function is executed, you can withdraw your tokens by using the <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">button.
 

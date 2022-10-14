@@ -11,5 +11,9 @@ Several indicators are currently available :&#x20;
 * **Whitelist** : the list of whitelisted tokens
 * **Members** : the list of member addresses & their roles (currently Admin OR Member)
 
+{% hint style="info" %}
+Currently, only ERC-20 tokens can be managed by the Treasury. ERC-721 tokens are yet to be implemented.
+{% endhint %}
+
 
 
