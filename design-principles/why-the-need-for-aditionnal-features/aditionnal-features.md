@@ -38,5 +38,5 @@ Beta version will allow to customize any kind of proposal with a set of paramete
   * Which role(s) can vote on a proposal
   * Quorum needed
   * Majority needed
-* **Proposal vetoing;**
+* **Proposal vetoing:**
   * Which role(s) can veto a proposal (if not specified, no vetoing allowed)
