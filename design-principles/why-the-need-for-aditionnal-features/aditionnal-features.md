@@ -1,6 +1,6 @@
 # Aditionnal features
 
-The initial Use Case that motivated the development of the Alpha version (setup of Quadratic employees profit sharing fund) implied to develop some additional functionalites on top Moloch V2:
+The scope of our MVP implies to develop some additional functionalites on top Moloch V2:
 
 * As membership is restricted to Quadratic's Employees, membership proposals cannot be voted by the DAO members but have to be enforced by an Admin who has the full view of the payroll
 * As the firm can be accountable for the consequences of some processed proposals, dedicated voting rights have to be defined on some proposals (e.g. whitelisting, grants) or a right of veto can be introduced
