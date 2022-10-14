@@ -24,7 +24,7 @@ We will further introduce the possbility to define any set of roles.
 
 ## Proposal custom settings
 
-Beta version will allow to customize any kind of proposal with a set of parameters:
+The MVP allows to customize any kind of proposal with a set of parameters:
 
 * **Proposal time limits:**
   * Voting period
