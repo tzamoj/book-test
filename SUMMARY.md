@@ -23,10 +23,10 @@
 
 ## UI
 
-* [Login](ui/login.md)
-* [Create a Proposal](ui/create-a-proposal.md)
-* [Monitor](ui/monitor/README.md)
-  * [The Proposals](ui/monitor/the-proposals.md)
-  * [The DAO state](ui/monitor/the-dao-state.md)
-  * [Your Member profile](ui/monitor/your-member-profile.md)
-* [Redeem your shares](ui/redeem-your-shares.md)
+* [Login](ui-alpha-version/login.md)
+* [Create a Proposal](ui-alpha-version/propose-an-investment.md)
+* [Monitor](ui-alpha-version/monitor/README.md)
+  * [The Proposals](ui-alpha-version/monitor/the-proposals.md)
+  * [The DAO state](ui-alpha-version/monitor/the-dao-state.md)
+  * [Your Member profile](ui-alpha-version/monitor/your-member-profile.md)
+* [Redeem your shares](ui-alpha-version/redeem-your-shares.md)

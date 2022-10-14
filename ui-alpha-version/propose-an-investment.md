@@ -15,13 +15,13 @@ A **Signal Proposal** allows to create an on-chain poll that does not execute an
 
 ## Proposal Workflow
 
-A Proposal follows a complex lifecycle that ensures **fairness** and reduces **surface attacks** _(especially a 51% attack on minority shareholders)_
+A Proposal follows a complex lifecycle that ensures **fairness** and reduces **surface attacks** _(especially a 51% attack on minority shareholders)._
 
 The lifecycle of a Proposal is the following :&#x20;
 
 * Submitted : the Proposal is created and enters the "**Voting Period**" during which all authorized members can vote.
 * Accepted : at the end of the "Voting Period", if the **Quorum** & **Majority** requirements are met, the Proposal enters a **"Grace Period"** during which all members who did not voted YES can [leave the DAO](redeem-your-shares.md) if they disagree with the vote.
-* Rejected : the Proposal is rejected if the Quorum & Majority requirements are not met.
+* OR Rejected : the Proposal is rejected if the Quorum & Majority requirements are not met.
 * To Process : when the Grace Period ends, any authorized member is able to process the Proposal
 * Processed: the Proposal is executed when an authorized member processes it
 
