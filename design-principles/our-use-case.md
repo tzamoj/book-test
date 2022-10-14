@@ -13,7 +13,7 @@ The roll-out of this fund is scheduled for Q2 2023, based on the results of fisc
 The technical implementation of these features relies on a DAO Framework in order to:
 
 * Leverage on Decentralized Governance features
-* Benefit from the liquidity of Crypto-assets to ensure a seamless possibility of exit
+* Benefit from the liquidity of Crypto-assets to ensure a seamless exit procedure
 *
   *
 
