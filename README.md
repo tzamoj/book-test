@@ -15,7 +15,7 @@ For a comprehensive description of the Moloch DAO Framework see [Moloch V2 Githu
 
 <img src=".gitbook/assets/moloch1.jpg" alt="" data-size="line">Special thanks to Moloch contributors and Ameen Soleimani
 
-## Why a port of Moloch V2 on Starknet ?
+## What is our Use Cae and why a port of Moloch V2 on Starknet ?
 
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
