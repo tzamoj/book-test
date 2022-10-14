@@ -17,7 +17,7 @@ For a comprehensive description of the Moloch DAO Framework see [Moloch V2 Githu
 
 ## Why we port Moloch V2 on Starknet ?
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+Understand our Use Case, why we strat form Moloch V2 and use Starknet, which aditionnal features we want to introduce :
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
