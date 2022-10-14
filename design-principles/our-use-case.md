@@ -5,7 +5,7 @@ We aim to implement a profit sharing fund for Quadratic Employees with the follo
 * The group is allocating a part of its profits or investments to the fund, following a classical incentivization scheme
 * The shares of the fund are allocated to the employees accordingly to peer-to-peer assessment ; we introduce peer-to-peer assesment mecanisms in order to mitigate the biases involved by top down management assessment
 * The investments made by the fund are decided by the shareholders through the vote of proposals&#x20;
-* Fuctions potentially involving the accountability of the fimr are triggerted by the Admins of the find (e.g. whitelisting of assets tradables by the fund)
+* Fuctions potentially involving the accountability of the firm are triggered by the Admins of the find (e.g. whitelisting of assets tradables by the fund)
 * Shareholders can redeem their shares at any time
 
 The roll-out of this find is scheduled for Q2 2023, based on the results of fiscal year 2022.
