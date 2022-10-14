@@ -31,4 +31,3 @@ Explore our Cairo Smart Contracts
 [api-reference](reference/api-reference/)
 {% endcontent-ref %}
 
-![](.gitbook/assets/image.png)
