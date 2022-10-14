@@ -12,9 +12,9 @@ Several indicators are currently available :&#x20;
 
 ### The voting right Delegation <a href="#delegation" id="delegation"></a>
 
-The delegate function (<img src="../../.gitbook/assets/delegate.png" alt="" data-size="line"> button) allows to delegate all your voting weight to another address. It can be useful if you have several addresses within the DAO or you are not able to participate for a certain period of time and want to delegate your rights to a trusted person.
+The **Delegate function** (<img src="../../.gitbook/assets/delegate.png" alt="" data-size="line"> button) allows to delegate all your voting weight to another address. It can be useful if you have several addresses within the DAO or you are not able to participate for a certain period of time and want to delegate your rights to a trusted person.
 
-By default, the voter address is your own address until you delegate it. The delegation can be revoked at any time by using the revoke function (<img src="../../.gitbook/assets/revoke.png" alt="" data-size="line"> button).
+By default, the voter address is your own address until you delegate it. The delegation can be revoked at any time by using the **Revoke function** (<img src="../../.gitbook/assets/revoke.png" alt="" data-size="line"> button).
 
 {% hint style="info" %}
 Currently, the delegation is only authorized between members who have the same role to lower attack surfaces.
