@@ -23,7 +23,7 @@ Understand our Use Case, why we start from Moloch V2 and use Starknet, which adi
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-## Want to deep dive?
+## Want to deep dive a little bit ?
 
 Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
 
