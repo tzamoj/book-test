@@ -6,7 +6,7 @@ The **"My Profile" page** allows to manage & monitor your membership in the DAO.
 
 Several indicators are currently available :&#x20;
 
-* **My Profile** : your address, role, voting weight and the [voter address of your voting right ](your-member-profile.md#the-voting-rights-delegation)
+* **My Profile** : your address, role, voting weight and the voter address of your voting right (see Section "The voting right Delegation)
 * **My Balances** : the available amount you can[ redeem by using the "Ragequit" function](../redeem-your-shares.md), the prorata shares of Treasury you own and your Shares & Loots
 * **My Token Balances** : the current amount of tokens and their values in the Treasury according to the prorata shares of Treasury you own
 
@@ -19,6 +19,3 @@ By default, the voter address is your own address until you delegate it. The del
 {% hint style="info" %}
 Currently, the delegation is only authorized between members who have the same role to lower attack surfaces.
 {% endhint %}
-
-
-
