@@ -6,3 +6,6 @@ Although these features are live on Ethereum and EVM Layers 2, their implementat
 
 In contrast, Account Abstraction is native to Starknet. End-users can use wallets like [ArgentX](https://www.argent.xyz/argent-x/) or [Braavos ](https://braavos.app/)that include Social Recovery features.&#x20;
 
+{% hint style="info" %}
+[https://www.argent.xyz/blog/wtf-is-account-abstraction/](https://www.argent.xyz/blog/wtf-is-account-abstraction/)
+{% endhint %}
