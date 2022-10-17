@@ -27,7 +27,7 @@ Filtering items are the followings:
 
 ## Filter "Status"
 
-| Indicator     | Elements                                                                                                                                                                                          |
+| Item          | Elements                                                                                                                                                                                          |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Voting period | The Proposal status is submitted AND the timer is less than Voting Period duration                                                                                                                |
 | Grace period  | The Proposal status is submitted AND the timer is higher than Voting Period duration AND the timer is less than Grace Period duration                                                             |
@@ -35,12 +35,12 @@ Filtering items are the followings:
 | To Process    | The Proposal status is submitted AND the timer is higher than Grace Period duration AND Majority AND Quorum requirements are met at the end of the Voting Period AND the proposal is not executed |
 | Processed     | The proposal is executed                                                                                                                                                                          |
 
+## Filter 'Active"
 
-
-| Filter | Indicator | Elements                                              |
-| ------ | --------- | ----------------------------------------------------- |
-| Active | Yes       | Status is Voting Period OR Grace Period OR To Process |
-| Active | No        | Status is Rejected OR Processed                       |
+| Indicator | Elements                                              |
+| --------- | ----------------------------------------------------- |
+| Yes       | Status is Voting Period OR Grace Period OR To Process |
+| No        | Status is Rejected OR Processed                       |
 
 | Filter | Indicator     | Elements                                                                                                                                                                                          |
 | ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
