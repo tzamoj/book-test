@@ -30,13 +30,13 @@ Filtering items are the followings:
 | Active | Yes       | Status is Voting Period OR Grace Period OR To Process |
 | Active | No        | Status is Rejected OR Processed                       |
 
-| Filter | Indicator     | Elements                                                                                                                                                                                          |
-| ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Filter |   Indicator   | Elements                                                                                                                                                                                          |
+| :----: | :-----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Status | Voting period | The Proposal status is submitted AND the timer is less than Voting Period duration                                                                                                                |
-| Status | Grace period  | The Proposal status is submitted AND the timer is higher than Voting Period duration AND the timer is less than Grace Period duration                                                             |
-| Status | Rejected      | The Proposal status is submitted AND the timer is higher than Voting Period duration AND Majority AND/OR Quorum requirements are not met                                                          |
-| Status | To Process    | The Proposal status is submitted AND the timer is higher than Grace Period duration AND Majority AND Quorum requirements are met at the end of the Voting Period AND the proposal is not executed |
-| Status | Processed     | The proposal is executed                                                                                                                                                                          |
+| Status |  Grace period | The Proposal status is submitted AND the timer is higher than Voting Period duration AND the timer is less than Grace Period duration                                                             |
+| Status |    Rejected   | The Proposal status is submitted AND the timer is higher than Voting Period duration AND Majority AND/OR Quorum requirements are not met                                                          |
+| Status |   To Process  | The Proposal status is submitted AND the timer is higher than Grace Period duration AND Majority AND Quorum requirements are met at the end of the Voting Period AND the proposal is not executed |
+| Status |   Processed   | The proposal is executed                                                                                                                                                                          |
 
 | Filter | Indicator  | Elements                    |
 | ------ | ---------- | --------------------------- |
