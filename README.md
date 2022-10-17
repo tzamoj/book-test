@@ -7,7 +7,7 @@ It has been designed in order to facilitate a roll-out in a Corporate environnem
 * **Onboard end-users who are not crypto-natives**, leveraging on Wallets implementing social recovery features
 * **Fine-tune the proposals management and the voting rules** in order to be able to (i) enforce externally defined criterias (e.g. membership) (ii) set-up the right set of parameters to align voting rights & accountability (e.g. whitelisting)
 
-Alpha Version fits Quadratic internal Use Case (setup of an Employees profit sharing fund), is under development and and will be rolled-out at Starknet regenesis.&#x20;
+Alpha Version is under developemnt and fits Quadratic internal Use Case (setup of an Employees profit sharing fund) and will be rolled-out at Starknet regenesis.&#x20;
 
 {% hint style="info" %}
 For a comprehensive description of the Moloch DAO Framework see [Moloch V2 Github](https://github.com/MolochVentures/moloch), [Moloch V1 Github](https://github.com/MolochVentures/moloch/tree/minimal-revenue/v1\_contracts) and [Moloch V3 documentation](https://baal-docs.vercel.app/)
