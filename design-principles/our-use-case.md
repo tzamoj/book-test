@@ -6,7 +6,7 @@ We aim to implement a **profit sharing fund for Quadratic Employees** with the f
 * The shares of the fund are allocated to our Employees accordingly to peer-to-peer assessment ; we introduce peer-to-peer assesment mecanisms in order to mitigate the biases involved by top down management assessment
 * The investments made by the fund are decided by the Employees through the vote of proposals&#x20;
 * Functions potentially involving the accountability of the firm are triggered by the Admins of the fund (e.g. whitelisting of assets tradables by the fund)
-* Shareholders can redeem their shares at any time
+* Employees can redeem their shares at any time
 
 The roll-out of this fund is **scheduled for Q2 2023**, based on the results of fiscal year 2022.
 
