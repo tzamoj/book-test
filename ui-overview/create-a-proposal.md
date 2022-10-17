@@ -9,20 +9,22 @@ Suppose we want to invest in UNI tokens. We have to add UNI tokens to the treasu
 A **Signal Proposal** allows to create an on-chain poll that does not execute anything. It can be submitted before any proposal to get a preventive feedback from the DAO.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/WHITELIST PROCESS modified.png" alt=""><figcaption><p>To <strong>create a New Proposal</strong>, click on the button at the top-right of the homepage.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/WHITELIST VOTING PERIOD modified.png" alt=""><figcaption><p>To <strong>create a New Proposal</strong>, click on the button at the top-right of the homepage.</p></figcaption></figure>
 
 ## Create a Whitelist Proposal
 
-A **token** has to be **whitelisted with the **_**Bank**_ before it can be added to the DAO. This is done with a Whitelist Proposal:
+A token has to be whitelisted with the _Bank_ before it can be added to the DAO.&#x20;
+
+A Whitelist Proposal allows to **whitelist a token address in the DAO Treasury**.
 
 <figure><img src="../.gitbook/assets/Whitelist.png" alt=""><figcaption></figcaption></figure>
 
-A Whitelist Proposal has the following parameters:
+When you create a Whitelist Proposal, several parameters are needed:
 
-* Title : Proposal's title.
-* Token Address : proposed token's address to whitelist.
+* Title : the title of your Proposal.
+* Token Address : the address of the token you want to whitelist.
 * Ticker : the name of the token that will be displayed in the DAO, such as "UNI".
-* Link (optional) :  a link to an off-chain discussion thread on the proposal.
+* Link (not mandatory) : a link from the off-chain discussions on the Proposal.
 
 {% hint style="info" %}
 A list of whitelisted tokens can be enforced by the Admin during the initialization of the DAO.
@@ -32,30 +34,32 @@ A list of whitelisted tokens can be enforced by the Admin during the initializat
 
 ## Create a Swap Proposal
 
-A Swap Proposal allows to **exchange tokens from the Treasury against other tokens.**
+A Swap Proposal allows to **swap a certain amount of tokens from the Treasury against a certain amount of tokens to the Treasury**.
 
 There are 2 types of Swap Proposals :&#x20;
 
-* **OTC Swap :** a member can exchange tokens from his/her account with tokens from the Treasury.
-* **AMM Swap** (yet to be implemented) : the Treasury swaps tokens through an Automated Market Maker.
+* **OTC Swap :** an authorized address can send tokens to the Treasury against tokens from the Treasury.
+* **AMM Swap** (yet to be implemented) : the Treasury swaps tokens by directly interacting with an Automated Market Maker.
 
 <figure><img src="../.gitbook/assets/OTC Swap modified.png" alt=""><figcaption></figcaption></figure>
 
 When you create a OTC Swap Proposal, several parameters are needed:
 
-* Title: Proposal's title
-* Send to the Bank : amount to send to the Treasury in the specified (_whitelisted_) token.
-* Receive from the Bank : amount to receive from the Treasury in the specified token.
-* The Link (_optional_) : a link to an off-chain discussion thread on the proposal.
+* Title : the title of your Proposal.
+* Send to the Bank : amount of a specific token you want to send to the Treasury (_only whitelisted tokens are displayed_)
+* Receive from the Bank : amount of a specific token you want to receive from the Treasury
+* The Link (not mandatory) : a link from the off-chain discussions on the Proposal.
 
 ## Proposal Workflow
 
-A proposal's lifecycle ensures **fairness** and reduces **surface attacks** _(especially a 51% attack on minority shareholders)_ and consists of the following possible states:
+A Proposal follows a complex lifecycle that ensures **fairness** and reduces **surface attacks** _(especially a 51% attack on minority shareholders)._
 
-* Submitted : the Proposal is created and enters the **Voting Period** during which authorized members can vote.
-* Accepted : at the end of the Voting Period, if the **Quorum** & **Majority** requirements are met, the Proposal enters a **Grace Period** during which members who did not voted for the proposal can [leave the DAO](redeem-your-shares.md) if they disagree with the proposal.
-* OR Rejected: the Proposal is rejected if the Quorum & Majority requirements are not met at the end of the Voting Period.
-* Ready: when the Grace Period ends, any authorized member can process the Proposal in order to be executed.
+The lifecycle of a Proposal is the following :&#x20;
+
+* Submitted : the Proposal is created and enters the "**Voting Period**" during which all authorized members can vote.
+* Accepted : at the end of the "Voting Period", if the **Quorum** & **Majority** requirements are met, the Proposal enters a **"Grace Period"** during which all members who did not voted YES can [leave the DAO](redeem-your-shares.md) if they disagree with the vote.
+* OR Rejected : the Proposal is rejected if the Quorum & Majority requirements are not met at the end of the Voting Period.
+* To Process : when the Grace Period ends, any authorized member is able to process the Proposal.
 * Processed: the Proposal is executed when an authorized member processes it.
 
 {% hint style="info" %}
