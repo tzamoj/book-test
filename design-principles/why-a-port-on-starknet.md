@@ -1,4 +1,4 @@
-# Why a port on Starknet
+# 💠 Why a port on Starknet
 
 Our targeted end-users are not all crypto-natives. Hence, we want to rely on Social Recovery Wallets to mitigate the risk of loss of access to Wallets while still relying on a Self Custody paradigm.
 

@@ -4,14 +4,14 @@
 
 ## Design Principles
 
-* [Moloch overview](design-principles/moloch-overview.md)
-* [Our Use Case](design-principles/our-use-case.md)
+* [👹 Moloch overview](design-principles/moloch-overview.md)
+* [🏦 Our Use Case](design-principles/our-use-case.md)
 * [Why a port of Moloch V2](design-principles/why-a-port-of-moloch-v2.md)
-* [Why a port on Starknet](design-principles/why-a-port-on-starknet.md)
+* [💠 Why a port on Starknet](design-principles/why-a-port-on-starknet.md)
 * [Why the need for aditionnal features](design-principles/why-the-need-for-aditionnal-features/README.md)
   * [Moloch V2 main features](design-principles/why-the-need-for-aditionnal-features/moloch-v2-main-features.md)
   * [Aditionnal features](design-principles/why-the-need-for-aditionnal-features/aditionnal-features.md)
-* [Security Assumptions](design-principles/security-assumptions.md)
+* [🛡 Security Assumptions](design-principles/security-assumptions.md)
 * [Architecture overview](design-principles/architecture-overview.md)
 
 ## Reference

@@ -1,4 +1,4 @@
-# Security Assumptions
+# 🛡 Security Assumptions
 
 Our MVP will allow to fully customize roles and proposal parameters. If it will be possible to implement the Moloch V2 features as they stand, it will be also possible to introduce some mecanisms that bypass DAO members' rights. For example:
 

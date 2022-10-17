@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Quadratic-bannière Linkedin perso.png
 coverY: 40.33333333333334
 ---
 
-# Our Use Case
+# 🏦 Our Use Case
 
 We aim to implement a profit sharing fund for Quadratic Employees with the following features:
 

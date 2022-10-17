@@ -1,4 +1,4 @@
-# Moloch overview
+# 👹 Moloch overview
 
 Moloch is an open-source DAO framework, originally designed to **manage Grants**: when new members join the DAO they receive non transferable shares in exchange of wETH allocated to the DAO treasury. Shares represent voting rights on proposals (mainly membership applications and grants allocations).
 
