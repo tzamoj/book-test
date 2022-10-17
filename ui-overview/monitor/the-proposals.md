@@ -1,5 +1,7 @@
 # The Proposals
 
+tetsss
+
 Test
 
 The **"Proposal" page** allows to submit new Proposals & monitor all the Proposals in the DAO.
@@ -9,6 +11,9 @@ Each Proposal card includes:
 * The title of the Proposal
 * The dynamic description of the Proposal according to the type & parameters of the Proposal
 * The current status of the Proposal
+
+
+
 * The time remaining before next status change if the Proposal status is in Voting Period OR Grace Period
 * The majority needed & the current majority
 * The quorum needed & the current quorum&#x20;
