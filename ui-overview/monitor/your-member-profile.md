@@ -17,5 +17,5 @@ The **Delegate function** (<img src="../../.gitbook/assets/delegate.png" alt="" 
 By default, the voter address is your own address until you delegate it. The delegation can be revoked at any time by using the **Revoke function** (<img src="../../.gitbook/assets/revoke.png" alt="" data-size="line"> button).
 
 {% hint style="info" %}
-Currently, the delegation is only authorized between members who have the same role to lower attack surfaces.
+Currently, the delegation is only authorized between members who have the same role .
 {% endhint %}
