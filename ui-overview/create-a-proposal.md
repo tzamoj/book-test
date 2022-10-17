@@ -6,7 +6,7 @@ The investments made by the DAO are triggered through proposals. Suppose we want
 * One **Swap Proposal** to **** add UNI tokens to the treasury
 
 {% hint style="info" %}
-A **Signal Proposal** allows to create an on-chain poll that does not execute anything. It can be submitted before any proposal to get a preventive feedback from the DAO.
+A **Signal Proposal** can also be used to create an on-chain poll that does not execute anything. It can be submitted before any proposal to get a preventive feedback from the DAO.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/WHITELIST PROCESS modified.png" alt=""><figcaption><p>To <strong>create a New Proposal</strong>, click on the button at the top-right of the homepage.</p></figcaption></figure>
