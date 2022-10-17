@@ -1,6 +1,6 @@
 # 🔊 Create a Proposal
 
-Suppose we want to invest in UNI tokens. We have to add UNI tokens to the treasury, which has to go through at least 2 proposals:
+The investments made by the DAO are triggered through proposals. Suppose we want for example to invest in UNI tokens. We have to add UNI tokens to the treasury, which has to go through at least 2 proposals:
 
 * One **Whitelist Proposal** to authorize UNI tokens with the _Bank_
 * One **Swap Proposal** to **** add UNI tokens to the treasury
@@ -27,8 +27,6 @@ A Whitelist Proposal has the following parameters:
 {% hint style="info" %}
 A list of whitelisted tokens can be enforced by the Admin during the initialization of the DAO.
 {% endhint %}
-
-
 
 ## Create a Swap Proposal
 
