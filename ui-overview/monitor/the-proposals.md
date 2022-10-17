@@ -1,8 +1,8 @@
 # The Proposals
 
-Ceci est un test
+The **"Proposal" page** allows to submit new Proposals & monitor all the Proposals in the DAO.
 
-
+Each Proposal card includes:Ceci est un test
 
 * The time remaining before next status change if the Proposal status is in Voting Period OR Grace Period
 * The majority needed & the current majority
