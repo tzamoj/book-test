@@ -9,7 +9,9 @@ The investments made by the DAO are triggered through proposals. Suppose we want
 A **Signal Proposal** can also be used to create an on-chain poll that does not execute anything. It can be submitted before any proposal to get a preventive feedback from the DAO.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/WHITELIST PROCESS modified.png" alt=""><figcaption><p>To <strong>create a New Proposal</strong>, click on the button at the top-right of the homepage.</p></figcaption></figure>
+To **create a New Proposal**, click on the button at the top-right of the homepage:
+
+<figure><img src="../.gitbook/assets/WHITELIST PROCESS modified.png" alt=""><figcaption></figcaption></figure>
 
 ## Create a Whitelist Proposal
 
