@@ -25,7 +25,7 @@ Understand our Use Case, why we use Moloch V2 and run on Starknet, which adition
 
 ## Want to deep dive a little bit ?
 
-Explore our Cairo Smart Contracts and have a first glance at the UI
+Explore the Cairo Smart Contracts and have a first glance at the UI&#x20;
 
 {% content-ref url="reference/api-reference/" %}
 [api-reference](reference/api-reference/)
