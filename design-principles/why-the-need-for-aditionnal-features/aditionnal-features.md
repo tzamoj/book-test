@@ -29,14 +29,22 @@ The MVP allows to customize any kind of proposal with a set of parameters:
 
 * Voting period
 * Grace period
-* **Proposal submission:**
-  * Which role(s) can submit a proposal
-  * Bypass voting period (Y/N)
-* **Proposal sponsoring:**
-  * Which role(s) can sponsor a proposal (if not specified, no sponsoring needed)
-* **Proposal voting:**&#x20;
-  * Which role(s) can vote on a proposal
-  * Quorum needed
-  * Majority needed
-* **Proposal vetoing:**
-  * Which role(s) can veto a proposal (if not specified, no vetoing allowed)
+
+**Proposal submission:**
+
+* Which role(s) can submit a proposal
+* Bypass voting period (Y/N)
+
+**Proposal sponsoring:**
+
+* Which role(s) can sponsor a proposal (if not specified, no sponsoring needed)
+
+**Proposal voting:**&#x20;
+
+* Which role(s) can vote on a proposal
+* Quorum needed
+* Majority needed
+
+**Proposal vetoing:**
+
+* Which role(s) can veto a proposal (if not specified, no vetoing allowed)
