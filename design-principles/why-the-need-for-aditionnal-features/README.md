@@ -1,6 +1,6 @@
 ---
 description: >-
-  This section gives an high level description of how Moloch V2 operates,
+  This section includes an high level description of how Moloch V2 operates,
   identifies the gaps to bridge to fit our needs and recaps the functionnalities
   we add on top Moloch V2.
 ---

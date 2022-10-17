@@ -1,4 +1,4 @@
-# Aditionnal features
+# Aditionnal features needed
 
 The scope of our MVP implies to develop some additional functionalites on top Moloch V2:
 
