@@ -4,9 +4,9 @@
 
 The **"Proposal" page** allows to submit new Proposals & monitor all the Proposals in the DAO.
 
-* The title of the Proposal
-* The dynamic description of the Proposal according to the type & parameters of the Proposal
-* The current status of the Proposal
+1. The title of the Proposal
+2. The dynamic description of the Proposal according to the type & parameters of the Proposal
+3. The current status of the Proposal
 
 
 
