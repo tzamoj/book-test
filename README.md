@@ -27,8 +27,8 @@ Understand our Use Case, why we use Moloch V2 and run on Starknet, which adition
 
 Explore the Cairo Smart Contracts and have a first glance at the UI&#x20;
 
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
