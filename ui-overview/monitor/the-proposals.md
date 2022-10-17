@@ -4,14 +4,9 @@ The **"Proposal" page** allows to submit new Proposals & monitor all the Proposa
 
 Each Proposal card includes:
 
-The time remaining before next status change if the Proposal status is in Voting Period OR Grace Period
-
 * The time remaining before next status change if the Proposal status is in Voting Period OR Grace Period
 * The majority needed & the current majority
 * The quorum needed & the current quorum&#x20;
-
-
-
 * The number of YES votes & NO votes
 * Buttons <img src="../../.gitbook/assets/image (5) (2).png" alt="" data-size="line"> & <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> to vote if the Proposal is in Voting Period
 * A button <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> to access granular details such as : type of Proposal / submission date / submitter address...
