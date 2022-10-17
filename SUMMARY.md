@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🕶 Introduction](README.md)
+* [🔹 Introduction](README.md)
 
 ## Design Principles
 
@@ -24,9 +24,9 @@
 
 ## UI overview
 
-* [🔊 Create a Proposal](ui-overview/create-a-proposal.md)
-* [📊 Monitor](ui-overview/monitor/README.md)
+* [Create a Proposal](ui-overview/create-a-proposal.md)
+* [Monitor](ui-overview/monitor/README.md)
   * [The Proposals](ui-overview/monitor/the-proposals.md)
   * [The DAO state](ui-overview/monitor/the-dao-state.md)
   * [Your Member profile](ui-overview/monitor/your-member-profile.md)
-* [🔌 Redeem your shares](ui-overview/redeem-your-shares.md)
+* [Redeem your shares](ui-overview/redeem-your-shares.md)
