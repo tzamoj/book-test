@@ -2,7 +2,7 @@
 
 You can **redeem your shares at any time** by "rage quitting" the DAO. Instant redeemability allows to minimize exit costs and ensures a strong protection of shareholding rights.&#x20;
 
-<figure><img src="../.gitbook/assets/myprofile ragequit modified.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### The Ragequit function
 
@@ -10,7 +10,9 @@ The **Ragequit function** (<img src="../.gitbook/assets/ragequit.png" alt="" dat
 
 The function can be executed only if you have available amount to ragequit AND you did not voted YES on a proposal that has been not executed yet.
 
-Once the Ragequit function is executed, you can withdraw your tokens by using the <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">button.
+Once the Ragequit function is executed, you can withdraw your tokens by using the <img src="../.gitbook/assets/image (5) (3).png" alt="" data-size="line">button:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Currently, the Ragequit function allows to only withdraw 100% of the available amount. Partial ragequit is yet to be implemented.
