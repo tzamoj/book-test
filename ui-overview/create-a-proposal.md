@@ -43,10 +43,10 @@ There are 2 types of Swap Proposals :&#x20;
 
 When you create a OTC Swap Proposal, several parameters are needed:
 
-* Title: Proposal's title
-* Send to the Bank : amount to send to the Treasury in the specified (_whitelisted_) token.
-* Receive from the Bank : amount to receive from the Treasury in the specified token.
-* The Link (_optional_) : a link to an off-chain discussion thread on the proposal.
+* **Title**: Proposal's title
+* **Send to the Bank**: amount to send to the Treasury in the specified (_whitelisted_) token.
+* **Receive from the Bank**: amount to receive from the Treasury in the specified token.
+* **The Link** (_optional_): a link to an off-chain discussion thread on the proposal.
 
 ## Proposal Workflow
 
