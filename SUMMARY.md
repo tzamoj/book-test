@@ -22,12 +22,12 @@
   * [Proposals](reference/api-reference/proposals/README.md)
   * [Bank](reference/api-reference/bank.md)
 
-## UI
+## UI overview
 
-* [Login](ui-alpha-version/login.md)
-* [Create a Proposal](ui-alpha-version/propose-an-investment.md)
-* [Monitor](ui-alpha-version/monitor/README.md)
-  * [The Proposals](ui-alpha-version/monitor/the-proposals.md)
-  * [The DAO state](ui-alpha-version/monitor/the-dao-state.md)
-  * [Your Member profile](ui-alpha-version/monitor/your-member-profile.md)
-* [Redeem your shares](ui-alpha-version/redeem-your-shares.md)
+* [Login](ui-overview/login.md)
+* [Create a Proposal](ui-overview/create-a-proposal.md)
+* [Monitor](ui-overview/monitor/README.md)
+  * [The Proposals](ui-overview/monitor/the-proposals.md)
+  * [The DAO state](ui-overview/monitor/the-dao-state.md)
+  * [Your Member profile](ui-overview/monitor/your-member-profile.md)
+* [Redeem your shares](ui-overview/redeem-your-shares.md)
