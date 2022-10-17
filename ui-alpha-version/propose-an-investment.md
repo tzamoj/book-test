@@ -1,11 +1,9 @@
 # Create a Proposal
 
-Let's take a concrete use case : you think the DAO should get some UNI tokens in the Treasury.
+Suppose we want to invest in UNI tokens. We have to add UNI tokens to the treasury, which has to go through at least 2 proposals:
 
-If you want to propose this investment, the DAO needs to pass at least 2 Proposals:
-
-* One **Whitelist Proposal** to authorize the Treasury to own UNI tokens
-* One **Swap Proposal** to **** add UNI tokens in the Treasury
+* One **Whitelist Proposal** to authorize UNI tokens with the _Bank_
+* One **Swap Proposal** to **** add UNI tokens to the treasury
 
 {% hint style="info" %}
 A **Signal Proposal** allows to create an on-chain poll that does not execute anything. It can be submitted before any proposal to get a preventive feedback from the DAO.
