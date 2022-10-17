@@ -24,7 +24,7 @@
 
 ## UI overview
 
-* [Create a Proposal](ui-overview/create-a-proposal.md)
+* [🔊 Create a Proposal](ui-overview/create-a-proposal.md)
 * [📊 Monitor](ui-overview/monitor/README.md)
   * [The Proposals](ui-overview/monitor/the-proposals.md)
   * [The DAO state](ui-overview/monitor/the-dao-state.md)
