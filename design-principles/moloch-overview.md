@@ -8,4 +8,4 @@ Based on the same principles, Moloch V2 has extended this initial set of functio
 
 Leveraging on Moloch V2 and Moloch Minions, DAOHaus setup a plaftorm to easily deploy Moloch based DAOs (approx. 700 DAOs launched through DAOHaus to date).
 
-[**Moloch V3**](https://github.com/Moloch-Mystics/Baal), which has been released in February 2022, introduces more flexibility in the DAO configuration, roles, tokenization of the shares, and the ability to interact with external Smart Contracts.
+[**Moloch V3**](https://github.com/Moloch-Mystics/Baal), which has been released during Eth Denver 2022, introduces more flexibility in the DAO configuration, roles, tokenization of the shares, and the ability to interact with external Smart Contracts.
