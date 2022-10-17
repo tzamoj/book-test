@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Quadratic-bannière Linkedin perso.png
+coverY: 40.33333333333334
+---
+
 # Our Use Case
 
 We aim to implement a profit sharing fund for Quadratic Employees with the following features:
@@ -16,12 +21,3 @@ The technical implementation of these features relies on a DAO Framework in orde
 * Benefit from the liquidity of Crypto-assets to ensure a seamless exit procedure
 
 More generally, this MVP is a \[real]Test  & Learn approach to pave the way to implementing DAO schemes that can be rolled-out in Corporates environnements.
-
-
-
-
-
-
-
-
-
