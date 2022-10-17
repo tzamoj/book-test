@@ -1,4 +1,4 @@
-# Redeem your shares
+# 🔌 Redeem your shares
 
 You can **redeem your shares at any time** by "rage quitting" the DAO. Instant redeemability allows to minimize exit costs and ensures a strong protection of shareholding rights.&#x20;
 
