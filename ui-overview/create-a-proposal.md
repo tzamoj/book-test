@@ -21,10 +21,10 @@ A **token** has to be **whitelisted with the **_**Bank**_ before it can be added
 
 A Whitelist Proposal has the following parameters:
 
-* Title : Proposal's title.
-* Token Address : proposed token's address to whitelist.
-* Ticker : the name of the token that will be displayed in the DAO, such as "UNI".
-* Link (optional) :  a link to an off-chain discussion thread on the proposal.
+* **Title**: Proposal's title.
+* **Token Address**: proposed token's address to whitelist.
+* **Ticker**: the name of the token that will be displayed in the DAO, such as "UNI".
+* **Link** (optional):  a link to an off-chain discussion thread on the proposal.
 
 {% hint style="info" %}
 A list of whitelisted tokens can be enforced by the Admin during the initialization of the DAO.
