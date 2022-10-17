@@ -27,8 +27,6 @@
 * [🔊 Create a Proposal](ui-overview/create-a-proposal.md)
 * [📊 Monitor](ui-overview/monitor/README.md)
   * [The Proposals](ui-overview/monitor/the-proposals.md)
-  * [Copy of The Proposals](ui-overview/monitor/copy-of-the-proposals.md)
   * [The DAO state](ui-overview/monitor/the-dao-state.md)
   * [Your Member profile](ui-overview/monitor/your-member-profile.md)
-  * [The proposals](ui-overview/monitor/the-proposals-1.md)
 * [🔌 Redeem your shares](ui-overview/redeem-your-shares.md)
