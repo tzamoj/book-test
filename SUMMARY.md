@@ -24,7 +24,6 @@
 
 ## UI overview
 
-* [Login](ui-overview/login.md)
 * [Create a Proposal](ui-overview/create-a-proposal.md)
 * [Monitor](ui-overview/monitor/README.md)
   * [The Proposals](ui-overview/monitor/the-proposals.md)
