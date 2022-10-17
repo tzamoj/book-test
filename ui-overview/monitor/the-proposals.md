@@ -1,13 +1,5 @@
 # The Proposals
 
-tetsss
-
-Test
-
-The **"Proposal" page** allows to submit new Proposals & monitor all the Proposals in the DAO.
-
-Each Proposal card includes:
-
 * The title of the Proposal
 * The dynamic description of the Proposal according to the type & parameters of the Proposal
 * The current status of the Proposal
