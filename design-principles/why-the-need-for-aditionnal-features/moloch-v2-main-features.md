@@ -22,7 +22,7 @@ A member can exit the DAO anytime he/she wishes so. Exiting is done in a 2 steps
 
 ### Membership
 
-Anyone can apply for membership by submitting a proposal with :
+Anyone can apply for membership by submitting a proposal with:
 
 * The desired number of _Shares_ of the DAO
 * The _Tribute_ offered in exchange of the _Shares_ (aka an amount of whitelisted Tokens)
@@ -54,4 +54,4 @@ Any member can leave the DAO with the Ragequit functionnality:
 * A member is allowed to withdraw his/her part of the Tokens held by the _Bank_ based on his/her shareholding
 * &#x20;His/her _Shares_ are burned
 
-The Ragequit functionality is not only a way to exit the DAO and redeem your assets. It is also a security feature to protect DAO members from 51% attacks : during the grace period, members who voted NO or did not vote can Ragequit, claiming their _Shares_ before the proposal is processed; Members who voted YES cannot Ragequit until the grace period is over and the proposal is processed.
+The Ragequit functionality is not only a way to exit the DAO and redeem your assets. It is also a security feature to protect DAO members from 51% attacks: during the grace period, members who voted NO or did not vote can Ragequit, claiming their _Shares_ before the proposal is processed; Members who voted YES cannot Ragequit until the grace period is over and the proposal is processed.
