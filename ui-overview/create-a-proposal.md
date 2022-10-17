@@ -9,7 +9,7 @@ Suppose we want to invest in UNI tokens. We have to add UNI tokens to the treasu
 A **Signal Proposal** allows to create an on-chain poll that does not execute anything. It can be submitted before any proposal to get a preventive feedback from the DAO.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/WHITELIST VOTING PERIOD modified.png" alt=""><figcaption><p>To <strong>create a New Proposal</strong>, click on the button at the top-right of the homepage.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/WHITELIST PROCESS modified.png" alt=""><figcaption><p>To <strong>create a New Proposal</strong>, click on the button at the top-right of the homepage.</p></figcaption></figure>
 
 ## Create a Whitelist Proposal
 
