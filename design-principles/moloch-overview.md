@@ -22,4 +22,4 @@ For further information, see [Moloch V2 Github](https://github.com/MolochVenture
 
 ## Moloch V3
 
-[**Moloch V3**](https://github.com/Moloch-Mystics/Baal), which has been released in February 2022, introduces more flexibility in the DAO configuration, roles, tokenization of the shares, and the ability to interact with external Smart Contracts.
+Moloch V3 which has been released in February 2022, introduces more flexibility in the DAO configuration, roles, tokenization of the shares, and the ability to interact with external Smart Contracts.
