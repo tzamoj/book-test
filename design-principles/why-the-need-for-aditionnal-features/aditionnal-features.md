@@ -25,9 +25,10 @@ We will further introduce the possbility to define any set of roles.
 
 The MVP allows to customize any kind of proposal with a set of parameters:
 
-* **Proposal time limits:**
-  * Voting period
-  * Grace period
+**Proposal time limits:**
+
+* Voting period
+* Grace period
 * **Proposal submission:**
   * Which role(s) can submit a proposal
   * Bypass voting period (Y/N)
