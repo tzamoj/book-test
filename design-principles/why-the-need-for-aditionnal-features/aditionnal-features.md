@@ -16,8 +16,8 @@ Our MVP uses a role-based membership system. Members are assigned roles, hence a
 
 As of today, it includes 2 roles :
 
-1. **Administrator**: responsible for onboarding new members and whitelisting assets
-2. **Governor**: responsible for the governance of the assets.
+* **Administrator**: responsible for onboarding new members and whitelisting assets
+* **Governor**: responsible for the governance of the assets.
 
 We will further introduce the possbility to define any set of roles.
 
