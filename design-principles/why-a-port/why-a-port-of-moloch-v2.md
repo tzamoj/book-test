@@ -1,4 +1,4 @@
-# 👺 Why a port of Moloch V2
+# Why a port of Moloch V2
 
 **Security and reliability** are at a prime for venture DAOs, even more so in a corporate environment. In assessing existing frameworks, we found Moloch V2 to be particularly appealing in that respect.
 

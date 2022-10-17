@@ -11,6 +11,6 @@ description: >-
 [moloch-v2-main-features.md](moloch-v2-main-features.md)
 {% endcontent-ref %}
 
-{% content-ref url="aditionnal-features-needed.md" %}
-[aditionnal-features-needed.md](aditionnal-features-needed.md)
+{% content-ref url="aditionnal-features.md" %}
+[aditionnal-features.md](aditionnal-features.md)
 {% endcontent-ref %}
