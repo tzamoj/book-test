@@ -1,4 +1,4 @@
-# Smart Contract Reference
+# ⚒ Smart Contract Reference
 
 {% content-ref url="members.md" %}
 [members.md](members.md)

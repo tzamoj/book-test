@@ -1,4 +1,4 @@
-# Architecture overview
+# 📐 Architecture overview
 
 ## Technical Stack
 
