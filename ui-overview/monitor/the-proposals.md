@@ -35,10 +35,10 @@ Filtering items are the followings:
 
 ## Filter "Active"
 
-| Item | Elements                                              |
-| ---- | ----------------------------------------------------- |
-| Yes  | Status is Voting Period OR Grace Period OR To Process |
-| No   | Status is Rejected OR Processed                       |
+| Item | Elements                                                                                         |
+| ---- | ------------------------------------------------------------------------------------------------ |
+| Yes  | Status is Voting Period OR Grace Period OR Approved to be processed Or Rjejected to be processed |
+| No   | Status is Approved OR Rejected                                                                   |
 
 ## Filter "Type"
 
