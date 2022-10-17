@@ -54,7 +54,7 @@ A proposal's lifecycle ensures **fairness** and reduces **surface attacks** _(es
 
 * **Voting Period**: the Proposal is created and enters the **Voting Period** during which authorized members can vote.
 * **Grace Period**: at the end of the Voting Period, if the **Quorum** & **Majority** requirements are met, the Proposal enters a **Grace Period** during which members who did not voted for the proposal can [leave the DAO](redeem-your-shares.md) if they disagree with the proposal.
-* OR Rejected to be porcesse: the Proposal is rejected if the Quorum & Majority requirements are not met at the end of the Voting Period.
+* OR Rejected to be processed: the Proposal is rejected if the Quorum & Majority requirements are not met at the end of the Voting Period.
 * Ready: when the Grace Period ends, any authorized member can process the Proposal in order to be executed.
 * Processed: the Proposal is executed when an authorized member processes it.
 
