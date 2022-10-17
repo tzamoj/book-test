@@ -1,3 +1,9 @@
+---
+description: >-
+  This section recaps an high level description of how Moloch V2 operates,
+  identifies
+---
+
 # 👾 Why the need for aditionnal features
 
 {% content-ref url="moloch-v2-main-features.md" %}
