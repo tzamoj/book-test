@@ -6,6 +6,7 @@ Each Proposal card includes:
 
 The time remaining before next status change if the Proposal status is in Voting Period OR Grace Period
 
+* The time remaining before next status change if the Proposal status is in Voting Period OR Grace Period
 * The majority needed & the current majority
 * The quorum needed & the current quorum&#x20;
 
