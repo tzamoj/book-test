@@ -24,9 +24,9 @@
 
 ## UI overview (WIP)
 
-* [🔊 Create a Proposal](ui-overview-wip/create-a-proposal.md)
+* [📖 Create a Proposal](ui-overview-wip/create-a-proposal.md)
 * [📊 Monitor](ui-overview-wip/monitor/README.md)
   * [The Proposals](ui-overview-wip/monitor/the-proposals.md)
   * [The DAO state](ui-overview-wip/monitor/the-dao-state.md)
   * [Your Member profile](ui-overview-wip/monitor/your-member-profile.md)
-* [🔌 Redeem your shares](ui-overview-wip/redeem-your-shares.md)
+* [💸 Redeem your shares](ui-overview-wip/redeem-your-shares.md)
