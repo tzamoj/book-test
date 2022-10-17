@@ -8,7 +8,7 @@ We aim to implement a **profit sharing fund for Quadratic Employees** with the f
 * Functions potentially involving the accountability of the firm are triggered by the Admins of the fund (e.g. whitelisting of assets tradables by the fund)
 * Shareholders can redeem their shares at any time
 
-The roll-out of this fund is scheduled for Q2 2023, based on the results of fiscal year 2022.
+The roll-out of this fund is **scheduled for Q2 2023**, based on the results of fiscal year 2022.
 
 The technical implementation of these features relies on a DAO Framework in order to:
 

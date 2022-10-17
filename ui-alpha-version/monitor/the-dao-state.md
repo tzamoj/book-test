@@ -2,7 +2,7 @@
 
 The **"Monitoring" page** allows to monitor the DAO state.
 
-<figure><img src="../../.gitbook/assets/monitoring modified (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/monitoring modified.png" alt=""><figcaption></figcaption></figure>
 
 Several indicators are currently available :&#x20;
 
