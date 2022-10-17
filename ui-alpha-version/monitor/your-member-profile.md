@@ -2,7 +2,7 @@
 
 The **"My Profile" page** allows to manage & monitor your membership in the DAO. &#x20;
 
-<figure><img src="../../.gitbook/assets/myprofile modified (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/myprofile modified.png" alt=""><figcaption></figcaption></figure>
 
 Several indicators are currently available :&#x20;
 

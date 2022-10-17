@@ -10,4 +10,4 @@ Finally, Moloch V2 already covers most of the basic needs of any venture DAO. Su
 
 #### Going Further
 
-Very much like Moloch V3 did to V2, once the MVP is live, we may add further functionnalities on top of existing ones once the MVP is live. Such new functionnalities might include (i) tokenization of shares, (ii) ability to interact with AMMs or (iii) a multisig contract to manage the Treasury.
+Very much like Moloch V3 did with Moloch V2, we may add further functionnalities on top of existing ones once the MVP is live. Such new functionnalities might include (i) tokenization of shares, (ii) ability to interact with AMMs or (iii) a multisig contract to manage the Treasury.
