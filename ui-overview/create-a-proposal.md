@@ -52,9 +52,9 @@ When you create a OTC Swap Proposal, several parameters are needed:
 
 A proposal's lifecycle ensures **fairness** and reduces **surface attacks** _(especially a 51% attack on minority shareholders)_ and consists of the following possible states:
 
-* Submitted : the Proposal is created and enters the **Voting Period** during which authorized members can vote.
-* Accepted : at the end of the Voting Period, if the **Quorum** & **Majority** requirements are met, the Proposal enters a **Grace Period** during which members who did not voted for the proposal can [leave the DAO](redeem-your-shares.md) if they disagree with the proposal.
-* OR Rejected: the Proposal is rejected if the Quorum & Majority requirements are not met at the end of the Voting Period.
+* **Voting Period**: the Proposal is created and enters the **Voting Period** during which authorized members can vote.
+* **Grace Period**: at the end of the Voting Period, if the **Quorum** & **Majority** requirements are met, the Proposal enters a **Grace Period** during which members who did not voted for the proposal can [leave the DAO](redeem-your-shares.md) if they disagree with the proposal.
+* OR Rejected to be porcesse: the Proposal is rejected if the Quorum & Majority requirements are not met at the end of the Voting Period.
 * Ready: when the Grace Period ends, any authorized member can process the Proposal in order to be executed.
 * Processed: the Proposal is executed when an authorized member processes it.
 
