@@ -22,11 +22,11 @@
   * [Proposals](reference/api-reference/proposals/README.md)
   * [Bank](reference/api-reference/bank.md)
 
-## UI overview
+## UI overview (WIP)
 
-* [🔊 Create a Proposal](ui-overview/create-a-proposal.md)
-* [📊 Monitor](ui-overview/monitor/README.md)
-  * [The Proposals](ui-overview/monitor/the-proposals.md)
-  * [The DAO state](ui-overview/monitor/the-dao-state.md)
-  * [Your Member profile](ui-overview/monitor/your-member-profile.md)
-* [🔌 Redeem your shares](ui-overview/redeem-your-shares.md)
+* [🔊 Create a Proposal](ui-overview-wip/create-a-proposal.md)
+* [📊 Monitor](ui-overview-wip/monitor/README.md)
+  * [The Proposals](ui-overview-wip/monitor/the-proposals.md)
+  * [The DAO state](ui-overview-wip/monitor/the-dao-state.md)
+  * [Your Member profile](ui-overview-wip/monitor/your-member-profile.md)
+* [🔌 Redeem your shares](ui-overview-wip/redeem-your-shares.md)
