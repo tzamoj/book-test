@@ -4,8 +4,8 @@
 
 It has been designed in order to facilitate a roll-out in a Corporate environnement, with the ability to:
 
-* Onboard end-users who are not crypto-natives, leveraging on Wallets implementing social recovery features
-* Fine-tune the proposals management and the voting rules in order to be able to (i) enforce externally defined criterias (e.g. membership) (ii) set-up the right set of parameters to align voting rights & accountability (e.g. whitelisting)
+* **Onboard end-users who are not crypto-natives**, leveraging on Wallets implementing social recovery features
+* **Fine-tune the proposals management and the voting rules** in order to be able to (i) enforce externally defined criterias (e.g. membership) (ii) set-up the right set of parameters to align voting rights & accountability (e.g. whitelisting)
 
 Alpha Version fits Quadratic internal Use Case (setup of an Employees profit sharing fund) and will be rolled-out at Starknet regenesis.&#x20;
 
