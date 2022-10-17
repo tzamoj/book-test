@@ -10,7 +10,7 @@ A member can exit the DAO anytime he/she wishes so. Exiting is done in a 2 steps
 
 ## Moloch V2 Proposal Workflow
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 * DAO members can submit a proposal against a fee in the DAO's _Payment Token._ A non-member can also submit a proposal to apply for membership. To be submitted, this proposal has to be sponsored by an existing DAO member.
 * DAO members can vote for or against a submitted proposal during its voting period.
