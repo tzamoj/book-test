@@ -24,14 +24,14 @@ Filtering items are the followings:
 
 ## Filter "Status"
 
-| Item                     | Elements                                                                                                                                                                                           |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Voting period            | The Proposal is submitted AND the timer is less than Voting Period duration                                                                                                                        |
-| Rejected to be processed | The Proposal is submitted AND the timer is higher than Voting Period duration AND Majority OR Quorum requirements are not met                                                                      |
-| Grace period             | The Proposal is submitted AND the timer is higher than Voting Period duration AND the timer is less than Grace Period duration AND NOT Rejected to be processed                                    |
-| Approved to be processed | The Proposal status is submitted AND the timer is higher than Grace Period duration AND Majority AND Quorum requirements are met at the end of the Voting Period AND the proposal is not processed |
-| Approved                 | An "Approved to be processed" Proposal  is processed                                                                                                                                               |
-| Rejected                 | An "Rejected to be processed" Proposal is processed                                                                                                                                                |
+| Item                  | Elements                                                                                                                                                                                           |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Voting period         | The Proposal is submitted AND the timer is less than Voting Period duration                                                                                                                        |
+| Rejected - to process | The Proposal is submitted AND the timer is higher than Voting Period duration AND Majority OR Quorum requirements are not met                                                                      |
+| Grace period          | The Proposal is submitted AND the timer is higher than Voting Period duration AND the timer is less than Grace Period duration AND NOT Rejected - to process                                       |
+| Approved - to process | The Proposal status is submitted AND the timer is higher than Grace Period duration AND Majority AND Quorum requirements are met at the end of the Voting Period AND the proposal is not processed |
+| Approved              | An "Approved - to be process" Proposal  is processed                                                                                                                                               |
+| Rejected              | An "Rejected - to process" Proposal is processed                                                                                                                                                   |
 
 ## Filter "Active"
 
