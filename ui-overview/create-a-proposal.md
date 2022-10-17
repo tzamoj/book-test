@@ -13,6 +13,8 @@ A **Signal Proposal** allows to create an on-chain poll that does not execute an
 
 ## Create a Whitelist Proposal
 
+A token has to be whitelisted with the _Bank_ before it can be added to the DAO.&#x20;
+
 A Whitelist Proposal allows to **whitelist a token address in the DAO Treasury**.
 
 <figure><img src="../.gitbook/assets/Whitelist.png" alt=""><figcaption></figcaption></figure>
