@@ -8,6 +8,8 @@ Moreover, Moloch V2 has deliberately aimed for a **minimalist design** and this 
 
 Finally, Moloch V2 already covers most of the basic needs of any venture DAO. Such an organisation must rely on governance rules to manage both its members and its funds, while protecting them not only from the outside, but also from potentially malicious internal activities. Moloch V2 provides such bricks that are crucial to our DAO.
 
-## Going Further
+{% hint style="success" %}
+**Going further:**
 
 Very much like Moloch V3 did with Moloch V2, we may add further functionnalities on top of existing ones once the MVP is live. Such new functionnalities might include (i) tokenization of shares, (ii) ability to interact with AMMs or (iii) a multisig contract to manage the Treasury.
+{% endhint %}
