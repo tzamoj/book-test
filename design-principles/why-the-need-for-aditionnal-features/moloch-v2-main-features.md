@@ -12,11 +12,11 @@ A member can exit the DAO anytime he/she wishes so. Exiting is done in a 2 steps
 
 <figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
-* DAO members can submit a proposal against a fee in the DAO's _Payment Token._ A non-member can also submit a proposal to apply for membership. To be submitted, this proposal has to be sponsored by an existing DAO member.
-* DAO members can vote for or against a submitted proposal during its voting period.
+* DAO members can submit a proposal against a fee in the DAO's _Payment Token._ A non-member can also submit a proposal to apply for membership. To be submitted, this proposal has to be sponsored by an existing DAO member
+* DAO members can vote for or against a submitted proposal during its voting period
 * Once its voting period is over, if approved by a majority of voters, the proposal enters its grace period
 * During its grace period, members who haven't approved the proposal can exit the DAO (aka Ragequit)
-* Once its grace period is over, any DAO member can process the proposal (aka execute it). Members are incentivized to do so by a reward in the DAO's _Payment Token._
+* Once its grace period is over, any DAO member can process the proposal (aka execute it). Members are incentivized to do so by a reward in the DAO's _Payment Token_
 
 ## Moloch V2 Main Proposal Types
 
