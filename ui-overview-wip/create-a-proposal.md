@@ -1,4 +1,4 @@
-# 🔊 Create a Proposal
+# 📖 Create a Proposal
 
 The investments made by the DAO are triggered through proposals. Suppose we want for example to invest in UNI tokens. We have to add UNI tokens to the treasury, which has to go through at least 2 proposals:
 
@@ -54,8 +54,8 @@ A proposal's lifecycle ensures **fairness** and reduces **surface attacks** _(es
 
 * **Voting Period**: the Proposal is created and enters the **Voting Period** during which authorized members can vote.
 * **Grace Period**: at the end of the Voting Period, if the **Quorum** & **Majority** requirements are met, the Proposal enters a **Grace Period** during which members who did not voted for the proposal can [leave the DAO](redeem-your-shares.md) if they disagree with the proposal.
-* OR **Rejected to be processed**: the Proposal is rejected if the Quorum & Majority requirements are not met at the end of the Voting Period.
-* **Approved to be processed**: when the Grace Period ends, any authorized member can process the Proposal in order to be executed.
+* **Rejected - ready to process**: the Proposal is rejected if the Quorum & Majority requirements are not met at the end of the Voting Period.
+* **Approved - ready to process**: when the Grace Period ends, any authorized member can process the Proposal in order to be executed.
 * **Approved** : the Proposal has been approved and processed.
 * **Rejected**: the Proposal has been rejected and processed.
 
