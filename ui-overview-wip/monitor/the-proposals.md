@@ -10,7 +10,7 @@ Each Proposal card includes:
 * The number of YES votes & NO votes
 * Buttons <img src="../../.gitbook/assets/image (5) (2).png" alt="" data-size="line"> & <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> to vote if the Proposal is in Voting Period
 * A button <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> to access granular details such as : type of Proposal / submission date / submitter address...
-* A button "To process" if the Proposal status is "Approved to be processed" or "Rejected to be processed"
+* A button "To process" if the Proposal status is "Approved - ready to be process" or "Rejected - ready to be process"
 * A button "Processed" if the Proposal status is "Approved" or "Rejected"
 
 <figure><img src="../../.gitbook/assets/OTC VOTING modified.png" alt=""><figcaption></figcaption></figure>
@@ -35,10 +35,10 @@ Filtering items are the followings:
 
 ## Filter "Active"
 
-| Item | Elements                                                                                               |
-| ---- | ------------------------------------------------------------------------------------------------------ |
-| Yes  | Status is Voting Period OR Grace Period OR Approved - ready to process Or Rejected \_ ready to process |
-| No   | Status is Approved OR Rejected                                                                         |
+| Item | Elements                                                                                              |
+| ---- | ----------------------------------------------------------------------------------------------------- |
+| Yes  | Status is Voting Period OR Grace Period OR Approved - ready to process Or Rejected - ready to process |
+| No   | Status is Approved OR Rejected                                                                        |
 
 ## Filter "Type"
 
