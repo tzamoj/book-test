@@ -42,12 +42,12 @@ Filtering items are the followings:
 
 ## Filter "Type"
 
-| Item       | Elements                    |
-| ---------- | --------------------------- |
-| Onboard    | Proposal Type is Onboard    |
-| Add Shares | Proposal Type is Add Shares |
-| Signal     | Proposal Type is Signal     |
-| Whitelist  | Proposal Type is Whitelist  |
-| OTC Swap   | Proposal Type is OTC Swap   |
-| AMM Swap   | Proposal Type is AMM Swap   |
+| Item      | Elements                     |
+| --------- | ---------------------------- |
+| Onboard   | Proposal Type is Onboard     |
+| Signal    | Proposal Type is Signal      |
+| Whitelist | Proposal Type is Whitelist   |
+| Blacklist | Proposal Type is Unwhitelist |
+| OTC Swap  | Proposal Type is OTC Swap    |
+| AMM Swap  | Proposal Type is AMM Swap    |
 
